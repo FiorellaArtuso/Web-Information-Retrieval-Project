@@ -1,0 +1,1501 @@
+500
+Marine snow
+['marine snow', 'sea snow', 'export production']
+{'Fisheries science', 'Geochemistry', 'Academic disciplines', 'Biological oceanography', 'Chemical oceanography', 'Aquatic ecology', 'Oceanographical terminology', 'Ecological processes', 'Bioindicators'}
+International Association of Women in Radio and Television
+['international association woman radio television', 'iawrt']
+{'Communications and media organizations', 'Feminist media', 'Organizations established in 1949', "International women's organizations", "Women's occupational organizations", 'Women in television', 'Women in radio', 'Arts'}
+Direct store delivery
+['direct store delivery']
+{'Business process', 'Business'}
+Fuzzy concept
+['fuzzy concept']
+{'Psychometrics', 'Concepts', 'Dialectic'}
+Languaculture
+['languaculture']
+{'Language', 'Culture', 'Anthropological linguistics', 'Sociolinguistics'}
+Khan Lab School
+['khan lab school']
+{'Schools in Santa Clara County, California', 'Education', 'Buildings and structures in Mountain View, California'}
+Retailtainment
+['retailtainment']
+{'Neologisms', 'Entertainment'}
+Curt-Eric Holmquist
+['curt-eric holmquist', 'curt eric holmquist']
+{'Events', 'Living people', 'Eurovision Song Contest conductors', 'Swedish conductors (music)', '1948 births'}
+Bachelor of Resource and Environmental Planning
+['bachelor resource environmental plan']
+{'Environmental studies', 'Geography', 'Urban planning'}
+Arthur Chesterfield-Evans
+['arthur chesterfield-evans']
+{'Health', 'Living people', 'Australian anti-war activists', 'Anti-smoking activists', 'Australian Greens candidates', 'Australian Fellows of the Royal College of Surgeons', 'University of New South Wales alumni', 'Australian Democrats politicians', '1950 births', 'Australian politicians convicted of crimes', 'Members of the New South Wales Legislative Council'}
+Outline of history
+['outline history', 'topic outline history', 'list basic historical topic', 'list basic history topic', 'list history topic', 'history subject', 'history basic topic', 'topical outline history']
+{'History', 'History-related lists', 'Wikipedia outlines'}
+Mirror theory
+['mirror theory']
+{'Humanities', 'Linguistics'}
+International Journal of Language & Communication Disorders
+['international journal language communication disorder']
+{'Language'}
+Dennis Karjala
+['dennis karjala']
+{'Law'}
+Antagonistic Pleiotropy
+['antagonistic pleiotropy']
+{'Senescence', 'Life'}
+Plimpton 322
+['plimpton', 'plympton']
+{'Mathematics manuscripts', 'Clay tablets', 'Babylonian mathematics', 'Mathematics'}
+Samuel Sullivan
+['samuel sullivan']
+{'Television supervillains', 'Fictional kidnappers', 'Fictional characters introduced in 2009', 'Fictional mass murderers', 'Fictional characters with earth or stone abilities', 'Fictional circus performers', 'Heroes (TV series) characters', 'Nature'}
+Mint Sauce (cartoon strip)
+['mint sauce']
+{'Comics featuring anthropomorphic characters', 'British comics characters', 'British comic strips', 'Cycling comics', 'Educational comics', 'People', 'Fictional sheep', 'Fictional bikers', 'Comics characters introduced in 1988', '1988 comics debuts', 'Mountain biking magazines'}
+Paradox
+['paradox', 'veridical paradox', 'paradoxically', 'paradoces', 'self-proving', 'paradoxicalness', 'falsidical paradox', 'paradoxical', 'time machine paradox', 'falsidical', 'logical paradox', 'semantic paradox', 'moral paradox', 'paradoxology']
+{'Concepts in logic', 'Paradoxes', 'Philosophical logic', 'Philosophy'}
+Anticipatory governance
+['anticipatory governance']
+{'Politics'}
+Pipeline Open Data Standard
+['pipeline open data standard', 'pod association']
+{'Organizations established in 1998', 'Non-profit organizations based in Oklahoma', 'Pipeline transport', 'Reference', 'Standards'}
+Presumptive regeneration
+['presumptive regeneration']
+{'Christian terminology', 'History of Calvinism in the Netherlands', 'Baptism', 'Religion', 'Calvinist theology'}
+Information metabolism
+['information metabolism']
+{'Science'}
+Sharad Purnima
+['sharad purnima', 'kumar purnima', 'sharad poonam', 'kojaagari purnima', 'kojagari purnima', 'sharad poornima', 'kojagari poornima', 'kojagiri poornima', 'kojagari', 'kojagiri', 'kojagari lakhsmi puja', 'kojagiri purnima', 'kojagari lakshmi puja']
+{'Festivals in Maharashtra', 'Harvest festivals', 'Festivals in Odisha', 'Non-Gregorian October observances', 'Full moon', 'Society', 'Observances on non-Gregorian calendars', 'Non-Gregorian September observances', 'Religious festivals in India', 'Festivals in West Bengal', 'Observances held on the full moon', 'Hindu festivals'}
+File:Ecuestremayaguez.jpg
+['file ecuestremayaguez jpg']
+{'Sports'}
+Refractometer
+['refractometer', 'refractormeter']
+{'Refractometers', 'Scales', 'Food science', 'Technology', 'Measuring instruments', 'Optical devices', 'Beekeeping tools', 'Optics'}
+Mexico City International Airport
+['mexico city international airport', 'mexico city intarnational airport', 'lic benito juarez international', 'aeropuerto int de la de méxico', 'mexico city international', 'mexico city', 'aicm', 'mexico city airport', 'juarez international airport', 'aeropuerto internacional de la ciudad de méxico', 'mex airport', 'benito juárez international airport', 'lic benito juarez international airport', 'benito juarez international airport', 'aeropuerto int de la de mexico', 'méxico city intarnational airport', 'mmmx', 'benito juárez airport', 'juárez airport', 'mexico city int airport', 'benito juarez airport', 'aeropuerto internacional de la ciudad de mexico']
+{'Airports in Mexico', 'WAAS reference stations', 'Mexico City International Airport', 'Airports established in 1929', 'Transportation in Mexico City', 'World'}
+How Sex Works
+['sex works']
+{'HarperCollins books', 'Sexual orientation and science', 'History of human sexuality', 'Academic disciplines', '2009 books'}
+Conical refiner
+['conical refiner', 'jordan refiner', 'jordan beater']
+{'Arts', 'Paper', 'Papermaking', 'Industrial processes', 'Pulp and paper industry', 'Crafts', 'Pulp and paper mills', 'Book arts'}
+Novay
+['novay', 'telematica instituut', 'telematica institute', 'telematica instituut enschede']
+{'Enterprise modelling', 'Business', 'Information technology research institutes', 'Research institutes in the Netherlands'}
+First-preference votes
+['first-preference vote', 'first preference vote', 'first preference', 'first-preference']
+{'Proportional representation electoral systems', 'Single-winner electoral systems', 'Concepts', 'Preferential electoral systems', 'Non-monotonic electoral systems'}
+Human Rights Quarterly
+['human right quarterly', 'hum rts']
+{'English-language journals', 'Human rights journals', 'Johns Hopkins University Press academic journals', 'Quarterly journals', 'Culture', 'Publications established in 1979'}
+Exergaming
+['exergaming', 'exertion interface', 'active video game', 'exergame', 'active gaming', 'wiiitis', 'wiitis', 'fitness game']
+{'Education', 'Words coined in the 1980s', 'Exergames'}
+Teatr Biuro Podróży
+['teatr biuro podróży']
+{'Entertainment'}
+Tragedy (event)
+['tragedy']
+{'Events', 'Grief', 'Death'}
+Geography of aging
+['geography aging']
+{'Geography'}
+Physician–patient privilege
+['physician patient privilege']
+{'Health'}
+Polish Historical Society
+['polish historical society', 'polskie towarzystwo historyczne']
+{'History', 'Learned societies of Poland'}
+Claes Oldenburg
+['clae oldenburg', 'clae oldenberg', 'clae oldenbourg', 'clae thure oldenburg', 'cheeseburger everything']
+{'Humanities', 'American male sculptors', 'American people of Swedish descent', 'Living people', '20th-century American printmakers', '20th-century American sculptors', 'Members of the American Academy of Arts and Letters', 'Contemporary sculptors', 'Swedish emigrants to the United States', 'Rolf Schock Prize laureates', 'United States National Medal of Arts recipients', '21st-century American sculptors', 'Latin School of Chicago alumni', 'School of the Art Institute of Chicago alumni', 'American pop artists', '1929 births', 'Wolf Prize in Arts laureates'}
+Fluency
+['fluency', 'fluent', 'fluents', 'language fluency', 'fluently']
+{'Psycholinguistics', 'Language', 'Oral communication', 'Language education'}
+Mock trial
+['mock trial']
+{'Legal education', 'Legal research', 'Law', 'Types of trials'}
+Chirality (chemistry)
+['chirality', 'enantiomorphic', 'leave hand protein', 'd-form', 'chiral chemistry', 'achiral', 'biological chirality', 'chiral molecule', 'optical isomer', 'optical isomerism', 'enantiometer', 'right-handed protein', 'enantiomerism', 'chiral compound', 'left-handed protein', 'chemical chirality', 'chiral atom', 'l-form', 'right hand protein', 'chirality chemistry', 'psuedochirality', 'chiral', 'psuedochiral', 'enatiomeric']
+{'Chirality', 'Pharmacology', 'Symmetry', 'Life', 'Polarization (waves)', 'Origin of life', 'Chemical nomenclature', 'Stereochemistry', 'Biochemistry'}
+Mishnat ha-Middot
+['mishnat ha-middot']
+{'Mathematics books', 'Hebrew literature', 'History of mathematics', 'Works of unknown authorship', 'Mathematics'}
+Ecosystem health
+['ecosystem health']
+{'Environmental health', 'Natural resources', 'Conservation biology', 'Ecology', 'Public health', 'Nature'}
+Rodney Celvin Akwensivie
+['rodney celvin akwensivie']
+{'People'}
+Naive dialecticism
+['naive dialecticism']
+{'Philosophy', 'Confucianism', 'Psychology', 'Buddhist philosophy', 'Cross-cultural psychology', 'Taoist philosophy'}
+Politician
+['politician', 'policymaker', 'political leader', 'politican', 'career politics', 'politicain', 'political figure', 'list politician', 'polictian', 'career politician', 'poltician', 'politition']
+{'Politics', 'Legal professions', 'Politicians', 'Political occupations', 'Positions of authority'}
+The Highway Code
+['highway code']
+{'Transport policy in the United Kingdom', 'Road user guides', 'Road transport in the United Kingdom', 'Publications established in 1931', 'British books', 'Driving in the United Kingdom', '1931 in the United Kingdom', 'Reference', '1931 introductions', 'Road safety'}
+Maavalla Koda
+['maavalla koda']
+{'Folk religion', 'Religion in Estonia', 'Religion', 'Religious organizations established in 1995'}
+Chinese musicology
+['chinese musicology', 'chinese musical system']
+{'Musicology', 'Science', 'Musical scales', 'Philosophy of music', 'Chinese music'}
+Society
+['society', 'urgesellschaft', 'human society', 'societal', 'type society', 'sosiety']
+{'Types of organization', 'Society'}
+World Poker Tour bracelet
+['world poker tour bracelet', 'wpt bracelet']
+{'World Poker Tour', 'Sports', 'Sports trophies and awards', 'Bracelets', 'Awards established in 2008'}
+Rocker cover
+['rocker cover', 'valve cover gasket', 'rocker cover gasket', 'rocker box', 'valve cover']
+{'Technology', 'Engine technology', 'Engine components'}
+Global supply chain finance
+['global supply chain finance']
+{'World'}
+Journal of Religion in Africa
+['journal religion africa']
+{'Publications established in 1967', 'Academic disciplines', 'English-language journals', 'African studies journals', 'Brill Publishers academic journals', 'Quarterly journals', 'Religious studies journals'}
+Mauve (Fabergé egg)
+['mauve']
+{'Arts'}
+Air yacht
+['air yacht']
+{'Business', 'Business aircraft', 'Seaplanes and flying boats'}
+Sense and reference
+['sense reference', 'designatum', 'designata', 'uber sinn und bedeutung', 'theory reference', 'sense', 'sense-reference distinction', 'sinn', 'sinn und bedeutung', 'sense nominatum', 'über sinn und bedeutung']
+{'Philosophy of language', 'Concepts', 'Meaning (philosophy of language)', 'Philosophical logic', 'Conceptual distinctions'}
+Gay marriage
+['gay marriage']
+{'Culture', 'LGBT culture'}
+History of Stonyhurst College
+['history stonyhurst college', 'history stonyhurst']
+{'History of schools', 'Education', 'Stonyhurst College'}
+Comic relief
+['comic relief', 'joke character', 'comicrelief', 'comic-relief', 'comedy relief', 'joke character comic relief', 'comedy-relief', 'comedic relief', 'character hoax']
+{'Comedy', 'Fictional characters by role in the narrative structure', 'Entertainment', 'Counterparts to the protagonist'}
+1915 to 1918 English cricket seasons
+['english cricket season']
+{'1918 in English cricket', 'Events', '1917 in English cricket', 'English cricket seasons from 1890 to 1918', '1915 in English cricket', '1916 in English cricket', 'Events cancelled due to World War I'}
+United States Geological Survey
+['united state geological survey', 'united state geographical service', 'united state geographic survey', 'united state geologic survey', 'usgs', 'geographic survey', 'united state geological service', 'geologic survey', 'us geological service', 'us geologic survey', 'geological survey', 'us geological survey', 'usgs earthquake notification service', 'united state groundwater depletion', 'unty state geological survey', 'dept interior us geological survey', 'national water information system', 'usgs hydrologic instrumentation facility', 'united state geographical survey', 'u-s geological society', 'u.s.g.s']
+{'1879 establishments in Virginia', 'San Mateo County, California', 'Geography', 'Climate institutions and programs', 'Exploration of North America', 'Scientific organizations based in the United States', 'Geological surveys', 'Government agencies established in 1879', 'Maps of the United States', 'Geology of the United States', 'Reston, Virginia', 'United States Geological Survey', 'Geography organizations'}
+Jaroslav Skála
+['jaroslav skála']
+{'Health'}
+Ab urbe condita
+['ab urbe condita', 'ab urbe condite', 'anno urbis conditae', 'ab urbe conditia']
+{'1st-century establishments in the Roman Empire', 'Roman calendar', 'Calendar eras', 'History', '1st-century establishments in Europe', 'Chronology', 'Latin words and phrases'}
+Twilight of the Superheroes
+['twilight superheroe']
+{'Humanities', 'Unpublished comics', 'Lost literature', 'Comics by Alan Moore', 'DC Comics'}
+Chant
+['chant', 'chant sound']
+{'Language', 'Chants'}
+Alabama Judicial Building
+['alabama judicial building']
+{'Neoclassical architecture in Alabama', 'Law', 'History museums in Alabama', '1990s architecture in the United States', 'Government buildings completed in 1994', 'Buildings and structures in Montgomery, Alabama', 'Law museums in the United States', 'State government buildings in Alabama', 'Museums in Montgomery, Alabama', 'Courthouses in Alabama'}
+Aro Tolbukhin. En la mente del asesino
+['aro tolbukhin en la mente del asesino', 'aro tolbukhin mind killer', 'aro tolbukhin']
+{'2002 films', 'Catalan-language films', 'Films set in Budapest', 'Life', 'Spanish-language films', 'Films shot in Spain', '2000s drama films', 'Films shot in Guatemala', 'Women and death', 'Directorial debut films', 'Films shot in Mexico', 'Catalan films', 'Spanish drama films', 'Hospital films', 'Films set in Guatemala', 'Films shot in Hungary', 'Business films', 'Films directed by Lydia Zimmermann', 'Art films', 'Films shot in Canada', 'Films directed by Agustí Villaronga', 'Spanish independent films', 'Films about children', 'Films about death', 'Films directed by Isaac Pierre Racine'}
+Fractal expressionism
+['fractal expressionism']
+{'Mathematics'}
+Coal Authority
+['coal authority', 'coal industry act']
+{'Mansfield', 'Non-departmental public bodies of the United Kingdom government', '1994 establishments in the United Kingdom', 'Organizations established in 1994', 'Coal mining in the United Kingdom', 'Organisations based in Nottinghamshire', 'Nature', 'Department of Energy and Climate Change'}
+People and self
+['people self']
+{'People'}
+Elements of music
+['element music', 'aspect', 'parameter music', 'symmetry music', 'rudiment music', 'invariances music', 'rudiment', 'musical aspect', 'aspect music', 'musical element', 'parameter', 'musical rudiment', 'musical parameter', 'element', 'gradation']
+{'Philosophy', 'Musical composition', 'Serialism', 'Musical analysis', 'Philosophy of music', 'Elements of music'}
+The Cambridge History of Political Thought
+['cambridge history political think']
+{'Works about the history of political thought', 'Politics', 'Cambridge University Press books'}
+Ask a Librarian
+['ask librarian']
+{'Library resources', 'Libraries in Florida', 'Reference'}
+Together 2016
+['together']
+{'2016 in Christianity', 'Christian ecumenism', '2016 in Washington, D.C.', 'Religion'}
+Science Week Ireland
+['science week ireland']
+{'Science and technology in the Republic of Ireland', 'Science in society', 'Science and culture', 'Science', 'Science festivals', 'Science education'}
+Religion and sexuality
+['religion sexuality', 'religion adolescent sexuality', 'sexuality christianity', 'christian perspective human sexuality', 'islam sexuality', 'religious view sex', 'religion heterosexuality', 'sex religion', 'nonprocreative sex', 'sexuality islam', 'christianity sexuality', 'religious view sexual intercourse', 'sexuality religion', 'quaker view sexuality', 'religion sexual orientation']
+{'Society', 'Sexuality and religion'}
+Zoonga
+['zoonga']
+{'Sports'}
+Anti-nuclear movement
+['anti-nuclear movement', 'nuclear thanks', 'antinuclear movement', 'anti-nuclear activist', 'anti-nuclear', 'nuclear power thanks', 'nuclear politics', 'opposition nuclear power', 'anti-nuclear movement european union', 'politics nuclear power', 'anti-nuclear activism', 'criticism anti-nuclear movement', 'anti nuclear movement', 'anti-nuclear movemement']
+{'Technology in society', 'Technophobia', 'Ethics of science and technology', 'Social movements', 'Anti-nuclear movement', 'Nuclear history', 'Technology', 'Nuclear weapons policy'}
+IKF World Korfball Ranking
+['ikf world korfball ranking']
+{'Korfball', 'Sports world rankings', 'World'}
+Adpositional phrase
+['adpositional phrase', 'prepositional phrase', 'preposition phrase', 'postpositional phrase']
+{'Grammar', 'Linguistics terminology', 'Academic disciplines', 'Syntactic categories'}
+Emilia Lanier
+['emilia lanier', 'emilia lanyer', 'amelia bassano', 'amelia bassano lanier', 'lanyer', 'aemilia lanier', 'amelia lanier', 'aemilia bassano', 'aemilia lanyer', 'aemelia lanyer', 'emilia bassano', 'emily lanier']
+{'People associated with Shakespeare', 'English people of Italian descent', '17th-century women writers', 'Women of the Tudor period', '16th-century English people', '16th-century women writers', 'Women of the Stuart period', '1569 births', '1645 deaths', 'English women poets', '17th-century English people', '16th-century women', 'Arts'}
+Economic Times Awards
+['economic time award', 'et award']
+{'Business and industry awards', 'Economy of India', 'Economic development awards', 'Events of The Times Group', 'Indian awards', 'Economics awards', 'Business'}
+Notion (philosophy)
+['notion']
+{'Concepts', 'Concepts in metaphysics'}
+Frog and the Birdsong
+['frog birdsong', 'kikker en het vogeltje']
+{"Children's picture books", "Dutch children's literature", 'Culture', 'Books about death', '1991 books'}
+SESI Mathematics
+['sesi mathematics']
+{'Education policy in Brazil', 'Games of mental skill', 'Education by method', 'Educational games', 'Mathematical games', 'Mathematics education', 'Education'}
+Bertrand Island Amusement Park
+['bertrand island amusement park']
+{'1983 disestablishments in New Jersey', 'Buildings and structures in Morris County, New Jersey', 'Amusement parks in New Jersey', '1910 establishments in New Jersey', 'Defunct amusement parks in the United States', 'Entertainment', 'Amusement parks closed in 1983', 'Amusement parks opened in 1910'}
+Kosher tax conspiracy theory
+['kosher tax conspiracy theory', 'kohser tax', 'kosher tax', 'kosher tax theory']
+{'Events', 'Urban legends', 'Antisemitic canards', 'Kosher food'}
+List of Chinese wars and battles
+['list chinese war battle', 'battle war involve china', 'chinese war', 'war battle involve china', 'list war involve china', 'invasion china', 'chinese battle', 'war involve china', 'list chinese battle', 'battle involve china']
+{'Geography', 'China-related lists', 'Timelines of military conflicts', 'Chinese history timelines', 'Lists of battles', 'Lists of wars by country', 'Battles involving China'}
+Localized disease
+['localized disease', 'local disease']
+{'Health', 'Diseases and disorders', 'Medical terminology'}
+Diminished value
+['diminish value', 'accelerated depreciation', 'diminish value report']
+{'Insurance', 'History', 'Transport economics', 'Accidents'}
+Chorography
+['chorography', 'chorographic map', 'chorographic']
+{'Humanities', 'Topography techniques', 'Fields of history', 'Area studies', 'Regional geography', 'Cartography', 'Auxiliary sciences of history', 'Surveying', 'History of geography', 'Branches of geography'}
+Polyglotism
+['polyglotism', 'polyglot', 'hyperglot', 'hyperpolyglot']
+{'Languages', 'Language', 'Multilingualism', 'Sociology of language'}
+Victimology
+['victimology', 'victimogenesis', 'victim crime', 'victimologist', 'victim impact panel', 'victim-proneness', 'high-risk victim', 'victimization rate', 'office federal ombudsman victim crime', 'crime victim', 'penal couple']
+{'Law', 'Sociology of law', 'Interdisciplinary subfields of sociology', 'Social psychology', 'Criminology', 'Victimology'}
+Very Bad Things
+['bad thing']
+{'American comedy films', 'Necrophilia', 'Films set in the Las Vegas Valley', 'American films', 'Films about weddings', 'Life', '1990s comedy films', 'Directorial debut films', 'English-language films', '1998 films', 'Films directed by Peter Berg', 'American black comedy films', 'Interscope Communications films', 'PolyGram Filmed Entertainment films', 'Film scores by Stewart Copeland'}
+William Esson
+['william esson']
+{'Mathematics', '19th-century British mathematicians', "Alumni of St John's College, Oxford", '1838 births', 'Fellows of Merton College, Oxford', '20th-century British mathematicians', 'Scottish mathematicians', '1916 deaths', 'Savilian Professors of Geometry', 'Fellows of New College, Oxford'}
+Olivier de Kersauson
+['olivier de kersauson', 'kersauson']
+{'Living people', '1944 births', 'Nature', 'Breton people', 'Single-handed circumnavigating sailors', 'French sailors (sport)'}
+Klara Izabella Pacowa
+['klara izabella pacowa']
+{'People'}
+1898 in philosophy
+['philosophy']
+{'Years in philosophy', '1898', 'Modern philosophy', 'Philosophy'}
+Bertie Lewis
+['bertie lewis']
+{'1920 births', 'Politics', '2010 deaths', 'British anti–nuclear weapons activists', 'Royal Air Force personnel of World War II', 'McCarthyism', 'British anti-war activists', 'People from Bolton'}
+Murasu Archive
+['murasu archive']
+{'Archives', 'Babylonia', 'Reference', 'Clay tablets', 'Cuneiform'}
+Sangha
+['sangha', 'samgha', 'order monk', 'saṅgha', 'dharma fellowship', 'sangä', 'mahasangha', 'maha sangha']
+{'Pali words and phrases', 'Buddhist sangha', 'Buddhist terminology', 'Religious identity', "Women's rights in religious movements", 'Religion'}
+Brain Blogger
+['brain blogger']
+{'Science blogs', 'Magazines published in California', 'Scientific American', 'American blogs', 'American online magazines', 'Magazines established in 2005', 'American news magazines', 'Medical websites', 'Science', 'Media in Los Angeles', 'Science websites'}
+Kyriarchy
+['kyriarchy', 'kyriarchical']
+{'Intersectionality', 'Feminism and society', 'Social inequality', 'Society', 'Social systems', 'Words coined in the 1990s'}
+UEC European Track Championships – Men's omnium
+['uec european track championship man omnium']
+{'Sports'}
+Architectural ironmongery
+['architectural ironmongery']
+{'Architectural elements', 'Metalworking', 'Ironmongery', 'Industrial history', 'Equipment', 'Technology', 'Building materials'}
+Ecumene
+['ecumene', 'oikumene', 'οἰκουμένη γῆ', 'oecumene', 'œcumene', 'oikoumene', 'oikoumenè', 'ocumene', 'οἰκουμένη']
+{'Ecclesiology', 'Christian terminology', 'Ancient Greece', 'World'}
+Total Cost of Consumption
+['total cost consumption']
+{'Cost engineering', 'Academic disciplines'}
+Meditative poetry
+['meditative poetry', 'meditative verse']
+{'Genres of poetry', 'Meditation', 'Religion and the arts', 'Arts'}
+Rules of the garage
+['rule garage']
+{'Business ethics', 'Slogans', 'Rules', 'Mottos', 'Hewlett-Packard', 'Business', 'Google'}
+Idea
+['idea', 'conceive idea', '', 'good idea']
+{'Cognition', 'Concepts', 'Thought', 'Idealism', 'Concepts in metaphysics', 'Ontology', 'Creativity'}
+Civilization
+['civilization', 'world civilization', 'old civilization', 'civilisation', 'civilization human history', 'civilize', 'classical civilisation', 'early civilization', 'dawn civilization', 'civilized world', 'ancient civilisation', 'ancient civilization', 'uncivilised', 'world civilisation', 'modern civilization', 'prehistoric civilization', 'decivilization', 'civilizing', 'civilise', 'civilized', 'advanced culture', 'human civilization', 'list ancient civilisation', 'uncivilized', 'civilised', 'government ancient civilization', 'list ancient civilization']
+{'Civilizations', 'Anthropological categories of peoples', 'Cultural geography', 'Cultural anthropology', 'Theories of history', 'Culture', 'Cultural history'}
+Education
+['education', 'educational issue', 'education programme', 'educationist', 'intellectual education', 'educaton', 'educator', 'teaching', 'book learning', 'education program', 'educational system', 'educate', 'educational', 'educatee', 'educable', 'educationalist', 'galician university', 'educational policy', 'educationism', 'educatability', 'education system', 'education issue']
+{'Knowledge sharing', 'Education'}
+Street theatre
+['street theatre', 'street theater', 'nukkad natak', 'street play']
+{'Street theatre', 'Street performance', 'Performance art', 'Entertainment'}
+History and events
+['history event']
+{'Events'}
+Visual geography
+['visual geography']
+{'Human geography', 'Geography', 'Branches of geography'}
+The Wall
+['wall', 'wall experience edition', 'pink', 'come', 'worm honor', 'wall immersion edition']
+{'Health', 'English-language albums', 'Albums produced by Roger Waters', 'Albums produced by Bob Ezrin', 'Mental illness in fiction', 'Columbia Records albums', 'Fiction with unreliable narrators', 'Albums produced by James Guthrie (record producer)', 'Concept albums', 'The Wall (rock opera)', 'Pink Floyd albums', 'Albums produced by David Gilmour', 'Harvest Records albums', 'Capitol Records albums', '1979 albums', 'EMI Records albums', 'Progressive pop albums', 'Albums recorded at CBS 30th Street Studio', 'Rock operas'}
+2015 Bojangles' Southern 500
+['bojangles southern']
+{'History'}
+Jury research
+['jury research']
+{'Humanities', 'Juries', 'Sociology of law', 'Applied psychology', 'Civil procedure'}
+Renato Prada Oropeza
+['renato prada oropeza']
+{'20th-century novelists', '2011 deaths', 'Bolivian male writers', 'Language', 'Bolivian emigrants to Mexico', 'Male novelists', '21st-century Mexican poets', '20th-century poets', 'Semioticians', 'Naturalized citizens of Mexico', 'Mexican novelists', '1937 births', 'Literary critics of Spanish', 'Mexican short story writers', 'Mexican male poets', '20th-century short story writers', 'Mexican male writers', 'Mexican screenwriters'}
+Defence Force Discipline Act 1982
+['defence force discipline act']
+{'1982 in Australian law', 'Law', 'Acts of the Parliament of Australia', 'Military discipline', 'Military law', 'Military of Australia'}
+Framsticks
+['framsticks']
+{'Artificial life models', 'Agent-based software', 'Artificial life', 'Life'}
+Positional notation
+['positional notation', 'positional number system', 'positional numeral system', 'place notational system', 'quadrovigesimal', 'base-24', 'base-n', 'place value system', 'weighted code', 'positional', 'place-value', 'place-valued system', 'base conversion', 'tetravigesimal', 'positional system', 'place-value system', 'place value notation', 'decimal place value', 'place value', 'place-value notation', 'positional notation system']
+{'Mathematical notation', 'Articles containing proofs', 'Positional numeral systems', 'Mathematics'}
+Kokou Agbemadon
+['kokou agbemadon', 'solété kokou agbemadon', 'kokou solété agbemadon', 'agbemadon kokou', 'agbemadon']
+{'Living people', 'Rally of the Togolese People politicians', '1951 births', 'Government ministers of Togo', 'Nature', 'Energy in Togo'}
+Bob Scott (ornithologist)
+['bob scott']
+{'English conservationists', 'People educated at Sutton Grammar School', 'People', 'English ornithologists', 'Royal Society for the Protection of Birds people', '1938 births', '2009 deaths', 'Deaths from cancer in England'}
+Dynamic epistemic logic
+['dynamic epistemic logic']
+{'Artificial intelligence', 'Modal logic', 'Philosophy', 'Formal epistemology'}
+Political argument
+['political argument']
+{'Politics', 'Arguments'}
+Citation dynamics
+['citation dynamics']
+{'Reference'}
+Polytheistic reconstructionism
+['polytheistic reconstructionism', 'polytheistic reconstructioist', 'polytheistic reconstructionist', 'reconstruct tradition', 'reconstruct paganism', 'reconstructionist paganism', 'neopagan reconstructionism', 'pagan reconstructionism']
+{'Polytheism', 'Religion', 'Neopaganism', 'Polytheistic reconstructionism'}
+From the Earth to the Moon (miniseries)
+['earth moon', 'ftettm', 'emmett seaborn']
+{'1998 American television series debuts', 'Television series based on actual events', '1998 in American television', 'Primetime Emmy Award for Outstanding Miniseries winners', 'Science docudramas', 'Television series by Playtone', '1990s American television series', 'Television series about the Apollo program', 'Television programs based on books', '1998 American television series endings', 'Science', 'Best Miniseries or Television Movie Golden Globe winners', '1990s American television miniseries', 'HBO network shows'}
+Manchester Digital Music Archive
+['manchester digital music archive']
+{'Society'}
+Retired number
+['retired number', 'retirement', 'jersey retirement', 'number retirement', 'retired jersey']
+{'Sportspeople with retired numbers', 'Sports', 'Team sports', 'Terminology used in multiple sports', 'Sports culture', 'Retirement', 'Numbering in sports'}
+Tin-glazing
+['tin-glazing', 'tin-glazed', 'tin glaze', 'tin-glaze']
+{'Technology', 'Ceramic glazes', 'History of glass', 'Types of pottery decoration', 'Glass compositions'}
+Awful Splendour: A Fire History of Canada
+['awful splendour fire history canada', 'awful splendour']
+{'University of British Columbia Press books', 'Documentary films about forests and trees', 'Environmental non-fiction books', '2007 books', 'Natural history books', 'Forests of Canada', 'Wildfires in Canada', 'World'}
+André Pirro
+['andré pirro']
+{'Academic disciplines'}
+Elizabethan Stage Society
+['elizabethan stage society']
+{'Performing groups established in 1895', 'William Shakespeare', 'Arts'}
+Viability study
+['viability study']
+{'Business'}
+NRL finals system
+['nrl final system', 'arl final series']
+{'Rugby league in Australia', 'Tournament systems', 'Concepts', 'National Rugby League', 'Rugby league in New Zealand'}
+Cultural identity
+['cultural identity']
+{'Sociology of culture', 'Anthropology', 'Culture', 'Identity politics', 'Cultural geography'}
+Wilhelmsgymnasium (Königsberg)
+['wilhelmsgymnasium']
+{'Education'}
+Flight of the Red Balloon
+['flight red balloon', 'le voyage du ballon rouge', 'ballon rouge']
+{'Balloons (entertainment)', "Musée d'Orsay", '2007 films', 'Films directed by Hou Hsiao-Hsien', 'French-language films', 'Taiwanese films', 'French drama films', 'Entertainment', 'French films'}
+Conestoga (ship)
+['conestoga']
+{'Ship fires', 'Steamships of the United States', 'Freighters', 'Maritime incidents in 1922', 'Shipwrecks of the Saint Lawrence River', 'Events', '1878 ships', 'Grain ships'}
+Hemispheres of Earth
+['hemisphere earth']
+{'Geography'}
+Age-related mobility disability
+['age-related mobility disability']
+{'Health'}
+Conservation and restoration of insect specimens
+['conservation restoration insect specimen']
+{'History'}
+New media studies
+['new media study']
+{'Humanities', 'Media studies', 'Behavioural sciences'}
+Topic-prominent language
+['topic-prominent language', 'topic-comment language']
+{'Language', 'Linguistic typology', 'Syntax'}
+Trigger law
+['trigger law']
+{'Political metaphors', 'Law'}
+After the Development of Agriculture
+['development agriculture']
+{'History of agriculture', 'Feminist spirituality', 'Feminist theology', 'Calendar eras', 'Life'}
+Outline of mathematics
+['outline mathematics', 'topic outline mathematics', 'mathematics basic topic', 'list topic mathematics', 'list basic mathematics topic', 'list mathematical topic', 'list basic mathematical topic', 'topical outline mathematics']
+{'Fields of mathematics', 'Wikipedia outlines', 'Mathematics'}
+Zuljanah
+['zuljanah', 'dhuljanah', 'dhūljānāḥ', 'history zuljinah', 'zuljenah', 'zuljinah', 'murtajiz']
+{'Animals in Islamic history', 'Horses in culture and religion', 'Nature', 'Battle of Karbala', 'Animals in Islam'}
+Olaf Glaeseker
+['olaf glaeseker']
+{'Living people', 'German public relations people', 'People', 'German journalists', 'German male journalists', 'Political consultants', 'People from Oldenburg', '1961 births', 'German male writers'}
+Dualism (cybernetics)
+['dualism']
+{'Philosophy'}
+Political demography
+['political demography']
+{'Politics', 'Demography'}
+Fumblerules
+['fumblerules', 'fumblerule']
+{'Self-reference', 'Word games', 'Reference'}
+The Hiram Key
+['hiram key']
+{'Freemasonry and religion', 'Religion', '1996 books'}
+Darwin among the Machines
+['darwin among machine']
+{'Cybernetics', 'Technology in society', 'Emergence', 'Artificial life', 'Works by Samuel Butler', 'Evolution', 'History of artificial intelligence', 'Science'}
+Pales
+['pale']
+{'Roman gods', 'Agricultural deities', 'Roman goddesses', 'Society', 'Roman deities'}
+Eric Lamaze
+['eric lamaze']
+{'Olympic silver medalists for Canada', 'Pan American Games gold medalists', 'Male equestrians', 'Equestrians at the 2011 Pan American Games', 'Olympic equestrians of Canada', 'Medalists at the 2008 Summer Olympics', 'Equestrians at the 2016 Summer Olympics', 'Olympic bronze medalists for Canada', 'Pan American Games silver medalists', 'Canadian equestrians', 'Canadian show jumping riders', 'Equestrians at the 2012 Summer Olympics', 'Pan American Games competitors for Canada', 'Olympic medalists in equestrian', 'Canadian sportspeople in doping cases', 'Sportspeople from Montreal', 'Sports', 'Equestrians at the 2007 Pan American Games', 'Equestrians at the 2008 Summer Olympics', 'Living people', 'Pan American Games bronze medalists', 'Equestrians at the 2015 Pan American Games', '1968 births', 'Olympic gold medalists for Canada', 'Sportspeople from King, Ontario', 'Medalists at the 2016 Summer Olympics', 'Doping cases in equestrian'}
+Cohn process
+['cohn process', 'cohn cold ethanol fractionation', 'cohn method']
+{'Technology', 'Blood', 'Industrial processes', 'Medical technology', 'Blood products'}
+Global strategy
+['global strategy']
+{'Business economics', 'Global business organization', 'World'}
+Mbaasem Foundation
+['mbaasem foundation']
+{'Organisations based in Ghana by subject', 'Creative writing programs', 'Non-profit organizations', 'Academic disciplines', 'Women in Ghana', 'Accra'}
+Association of Art Historians
+['association art historian']
+{'Art history', 'Arts organizations established in 1974', '1974 establishments in England', 'Arts organisations based in the United Kingdom', 'Charities based in London', 'Academic organisations based in the United Kingdom', 'Arts'}
+AllBusiness.com
+['allbusiness com', 'allbusiness', 'business']
+{'1999 establishments in California', 'Internet companies of the United States', 'Small business', 'Business services companies established in 1999', 'Business services companies of the United States', 'Companies based in San Francisco', 'Business', 'Dun & Bradstreet'}
+Hong Kong units of measurement
+['hong kong unit measurement', 'metrication hong kong']
+{'Concepts', 'Customary units of measurement', 'Systems of units', 'Units of measurement by country', 'Chinese units in Hong Kong'}
+Welfare culture
+['welfare culture']
+{'Criticisms of welfare', 'Culture'}
+Iuka Normal Institute
+['iuka normal institute']
+{'1882 establishments in Mississippi', 'Education in Tishomingo County, Mississippi', 'Educational institutions disestablished in 1902', 'Educational institutions established in 1882', '1902 disestablishments in Mississippi', 'Defunct universities and colleges in Mississippi', 'Education'}
+Cowboy Bebop: Tsuioku no Serenade
+['cowboy bebop tsuioku serenade', 'cowboy bebop tsuioku yakyoku', 'cowboy bebop']
+{'PlayStation 2 games', 'Japan-exclusive video games', 'Cowboy Bebop', 'Video games based on anime and manga', 'Bandai games', 'Banpresto games', '2005 video games', 'Video games with cel-shaded animation', 'PlayStation 2-only games', 'Entertainment'}
+USS Percival (DD-452)
+['uss percival']
+{'Events'}
+List of Ramsar wetlands of international importance
+['list ramsar wetland international importance', 'ramsar site', 'ramsar list wetland international importance', 'ramsar wetland international importance', 'ramsar wetland site', 'ramsar site international importance', 'list wetland international importance', 'ramsar area', 'ramsar status', 'list ramsar site', 'ramsar list wetland', 'list ramsar wetland']
+{'Lists of coordinates', 'Lists of Ramsar sites', 'Geography', 'Ramsar sites'}
+Health communication
+['health communication']
+{'Health', 'Health education', 'Medical websites', 'Communication studies', 'Medical humanities'}
+2016 Bojangles' Southern 500
+['bojangles southern']
+{'History'}
+Roberta Perkins
+['roberta perkins']
+{'Humanities'}
+Speech
+['speech', 'speach', '', 'voice communication', 'speech articulation', 'speak', 'speech speech disorder', 'speech communication', 'human speech']
+{'Speech', 'Language', 'Oral communication'}
+Edict of toleration
+['edict toleration', 'edict tolerance', 'tolerance edict', 'édit de tolérance']
+{'Religion in the Ancien Régime', 'Law', 'Human rights instruments', 'History of religion', 'Religion and law', '4th-century Christianity', 'Freedom of religion', 'Edicts'}
+Open Tree of Life
+['open tree life']
+{'Biodiversity databases', 'Tree of life (biology)', 'Biology websites', 'Free software', 'Life'}
+E-LOTOS
+['e-lotos']
+{'Process calculi', 'Mathematics', 'Formal methods', 'Concurrency (computer science)', 'Concurrency control', 'Formal specification languages', 'Synchronization'}
+Free surface effect
+['free surface effect']
+{'Naval architecture', 'Nature', 'Fluid mechanics'}
+Politically exposed person
+['politically expose person', 'politically expose foreign person', 'senior foreign political figure']
+{'Politics', 'Bank regulation', 'People', 'Government officials', 'Corruption'}
+Ivan Djeparoski
+['ivan djeparoski']
+{'Living people', 'Philosophy', '1958 births', 'Macedonian poets', 'Macedonian philosophers'}
+Center for Global Politics
+['center global politics']
+{'Politics', 'Free University of Berlin', 'Political research institutes'}
+James Essinger publications
+['jame essinger publication']
+{'Reference'}
+Ya`fūr
+['ya fūr']
+{'Religion'}
+Restoring force
+['restore force']
+{'Science', 'Force'}
+Fixing Sex
+['fixing sex', 'fixing sex intersex medical authority live experience']
+{'Intersex in non-fiction', 'Intersex and medicine', 'Bioethics', 'Biology of gender', 'Medical books', 'Society', 'Medical controversies', 'Medical anthropology', 'Medical ethics', 'Philosophy of sexuality'}
+1952 Wightman Cup
+['wightman cup']
+{'1952 in tennis', 'Sports', 'Wightman Cups by year', '1952 in British sport', '1952 in American sports', "1952 in women's tennis"}
+Michael W. Allen
+['michael allen']
+{'Living people', 'American technology company founders', 'Ohio State University alumni', 'Cornell College alumni', 'Educational technologists', '1946 births', 'Technology', 'American technology chief executives'}
+Cardboard bicycle
+['cardboard bicycle']
+{'Bicycles', 'Paper products', 'Products introduced in 2012', 'Renewable resources', 'World', 'Paper recycling'}
+List of aviation, aerospace and aeronautical abbreviations
+['list aviation aerospace aeronautical abbreviation', 'aeronautical abbreviation', 'list aeronautical abbreviation']
+{'Aeronautics', 'Lists of abbreviations', 'Glossaries of aviation', 'Academic disciplines'}
+National Portrait Gallery (Sweden)
+['national portrait gallery']
+{'Södermanland County', 'Art museums and galleries in Sweden', 'Portrait galleries', '1820s establishments in Sweden', 'Museums established in 1822', 'Arts'}
+Registered office
+['registered office', 'regd office']
+{'Business economics', 'Business', 'Address (geography)'}
+Judicial review in Scotland
+['judicial review scotland']
+{'Court of Session', 'Concepts', 'Scots administrative law', 'Judicial review'}
+Snapp (company)
+['snapp']
+{'Culture', 'Companies established in 2014'}
+Horacio Castillo III
+['horacio castillo']
+{'Education'}
+800-The-Info
+['800-the-info', '']
+{'Directory assistance services', 'Telecommunication services', 'Entertainment', 'Telephone numbers in the United States'}
+The Year of Living Dangerously (film)
+['year live dangerously']
+{'Metro-Goldwyn-Mayer films', 'Film scores by Maurice Jarre', 'Films shot in Sydney', 'Tagalog-language films', 'Films shot in Wales', 'Australian romance films', 'Films about journalists', 'Films shot in Australia', '1980s war films', 'Films featuring a Best Supporting Actress Academy Award-winning performance', 'Films directed by Peter Weir', 'Australian war films', 'Filipino-language films', 'English-language films', 'Events', 'Films based on Australian novels', 'Transition to the New Order', 'Films shot in Manila', '1980s romantic drama films', 'Films set in Indonesia', 'Romantic period films', 'Films shot in the Philippines', 'Australian drama films', 'Indonesian-language films', '1982 films', 'Films set in 1965', 'Australian films'}
+Animal geography
+['animal geography']
+{'Human geography', 'Geography', 'Branches of geography', 'Sociobiology', 'Zoology'}
+International Journal of Men's Health
+['international journal man health']
+{'Health'}
+Australian History Awards
+['australian history award']
+{'History awards', 'Australia history-related lists', 'Australian non-fiction book awards', 'History'}
+Open Humanities Press
+['open humanities press']
+{'Humanities', 'Publishing cooperatives', 'Open access publishers', 'Open access projects', 'Discipline-oriented digital libraries'}
+Malbolge
+['malbolge', 'malbolge programming language', 'malboge', 'malbodge']
+{'Esoteric programming languages', 'Non-English-based programming languages', 'Language', 'Programming languages created in 1998'}
+Sexually violent predator laws
+['sexually violent predator law', 'sexually violent predator legislation', 'sexually violent predator act', 'sexually violent predator', 'sexually dangerous', 'sexuallly violent predator', 'sexually dangerous person', 'svpa', 'svp law']
+{'Criminology', 'Sex crimes', 'Law', 'Sex laws'}
+Monochoria vaginalis
+['monochoria vaginalis', 'heartshape false pickerelweed']
+{'Aquatic plants', 'Pontederiaceae', 'Invasive plant species', 'Invasive plant species in Sri Lanka', 'Life'}
+File:Escher Puddle.jpg
+['file escher puddle jpg']
+{'Mathematics'}
+Hyperconcentrated flow
+['hyperconcentrated flow']
+{'Nature', 'Geological hazards', 'Geomorphology'}
+Fritz the Cat
+['fritz cat', 'crumb fritz cat', 'crumb fritz cat big story']
+{'Comics set in the 1960s', '1965 comics debuts', 'Comics about cats', 'Comedy film characters', 'Comics set in the 1970s', 'Fritz the Cat', 'Fictional cannabis users', 'Fictional revolutionaries', 'Anthropomorphic cats', 'Comics by Robert Crumb', 'Humor comics', 'People', 'Comics about animals', 'Underground comix', 'Erotic comics', 'Satirical comics', 'Comics characters introduced in 1965', 'American comic strips', 'Fictional anthropomorphic characters', 'Fictional rapists', 'American comics characters', 'Animated characters', 'American comics adapted into films', 'Comics featuring anthropomorphic characters', '1972 comics endings', 'Fantagraphics Books titles', 'Fictional poets', 'Fictional con artists', 'Fictional cats', 'Comics adapted into animated films'}
+Philosophical ethology
+['philosophical ethology']
+{'Philosophy'}
+List of state leaders in 1561
+['list state leader']
+{'Politics'}
+Hashtag
+['hashtag', 'hashtags', 'hash tag', 'hashtagging', 'hastag', 'cashtag']
+{'Knowledge representation', 'Hashtags', 'Social media', 'Collective intelligence', 'Information retrieval techniques', 'Metadata', 'Computer jargon', 'Reference', '2010s slang', 'Twitter', 'Web 2.0'}
+The Superstar
+['superstar']
+{'Religion'}
+Taylor's Wall
+['taylor wall']
+{'Science'}
+Prohibition of drugs
+['prohibition drug', 'legalisation illegal drug', 'legalization illegal drug', 'drug criminalization', 'war drug', 'illegal drug', 'counterculture war drug', 'prohibition', 'illicit use', 'drug prohibition', 'drug scene', 'drug offender', 'drug offence', 'drug law', 'lewis mason']
+{'Counterculture', 'Counterculture of the 1960s', 'Drug control law', 'Drug policy', 'History of drug control', 'Society', 'Social conflict'}
+Team Sityodtong
+['team sityodtong']
+{'Muay Thai', 'Sports in Boston', 'Sports', 'Mixed martial arts training facilities', 'Kickboxing training facilities'}
+Clarke's three laws
+['clarke law']
+{'Technology'}
+Zodiac: Signs of the Apocalypse
+['zodiac sign apocalypse']
+{'Canadian science fiction films', '2010s science fiction films', 'Canadian television films', 'Apocalyptic films', 'Syfy original films', 'CineTel Films films', 'Peru in fiction', 'Canadian disaster films', '2014 television films', 'World'}
+Profession
+['profession', 'expert employment', 'expert vocation', 'expert profession', 'expert job', 'expert occupation', 'expert career']
+{'Occupations', 'Professional studies', 'Academic disciplines'}
+Aristotle's views on women
+['aristotle view woman']
+{'Arts'}
+Australian Shareholders Association
+['australian shareholder association']
+{'Organisations based in Sydney', '1960 establishments in Australia', 'Business organisations in Australia', 'Shareholders', 'Business', 'Organizations established in 1960'}
+World art studies
+['world art study', 'global art', 'world art', 'global art history', 'world art history']
+{'Concepts', 'Art criticism', 'Art history'}
+Human rights
+['human right', 'fundamental human right', 'international human right', 'human right treaty body', 'universal human right', 'human right abuse', 'violation human right', 'human-right', 'human right organisation', 'basic human right', 'human right group middle east', 'human right freedom', 'law human right', 'human right violation', 'protection civilian', 'personal right law', 'comparative study human right record country', 'right human', 'human right contravention']
+{'Law', 'Abuse', 'Law and economics', 'Personhood', 'Human rights', 'Egalitarianism', 'Culture', 'Human rights abuses', 'Concepts in ethics'}
+Housekeeping
+['housekeeping', 'house clean', 'house keep', 'housecleaning', 'chore', 'domestic deep clean', 'household management', 'errand', 'household chore', 'daily chore']
+{'Education', 'Cleaning', 'Home'}
+California Celebrities Rights Act
+['california celebrity right act', 'california civil code section', 'celebrity right act', 'post mortem right publicity']
+{'Personality rights', 'California statutes', 'United States intellectual property law', 'Entertainment', '1985 in California', '1985 in law', 'Entertainment law'}
+Event (philosophy)
+['event', 'physical event']
+{'Events', 'Philosophy of time'}
+List of cities in the Cayman Islands
+['list city cayman island']
+{'Cayman Islands-related lists', 'Geography', 'Lists of cities by country', 'Populated places in the Cayman Islands'}
+Lucile Petry Leone
+['lucile petry leone']
+{'Health', 'University of Delaware alumni', 'World War II nurses', 'United States Public Health Service', 'Nursing school deans', 'American nursing administrators', 'Johns Hopkins University alumni', 'University of Minnesota faculty', 'People from Preble County, Ohio', "Texas Woman's University faculty", '1999 deaths', 'Nursing educators', '1902 births', 'Teachers College, Columbia University alumni', 'Members of the National Academy of Medicine', 'Female wartime nurses'}
+Dexter Award
+['dexter award']
+{'Awards disestablished in 2001', 'History awards', 'History', 'Awards established in 1956', 'Chemistry awards', '2001 disestablishments in the United States', '1956 establishments in the United States'}
+Portal:Digital humanities
+['portal digital humanities']
+{'Humanities'}
+Story of Your Life
+['story life', 'heptapod']
+{'Short stories by Ted Chiang', 'Science fiction short stories', 'Language', '1998 short stories', 'Nebula Award for Best Novella-winning works'}
+Christopher J. Schneider
+['christopher schneider']
+{'Living people', 'Law', 'Sociologists of law', 'American sociologists', 'American academics', '1979 births', 'University of British Columbia faculty', 'Arizona State University alumni', 'Northern Illinois University alumni'}
+Tamagotchi
+['tamagotchi', 'tamagotti', 'tamaguchi', 'tamagotchi connection', 'tamogotchi', 'memetchi', 'saaikō tamagotchi', 'tamigotchi', 'gotchi king', 'saaiko tamagotchi', 'tamagochi', 'tagamotchi', 'tamagatchi', 'tomagutchi', 'tamagaotchi', 'tomagatchi', 'tamagutchi', 'tamagoshi', 'tamagotchi help', 'otokitchi', 'tamagothi', 'tamagotchis', 'tomagotchi', 'tamaigotchi', 'kuchipatchi', 'let go tamagotchi', 'ichigotchi', 'tamagotchi version', 'tamagocchi', 'tamogatchi', 'aki maita', 'mametchi', 'anime tv de hakken tamagotchi', 'mimitchi', 'tamagotch', 'tamagachi', 'hinotamatchi']
+{'1990s fads and trends', '1990s toys', 'Handheld virtual pets', 'Tamagotchi', 'Life'}
+Robbins algebra
+['robbins algebra', 'robbins axiom', 'robbins conjecture']
+{'Boolean algebra', 'Formal methods', 'Computer-assisted proofs', 'Mathematics'}
+Mycetophagites
+['mycetophagites', 'mycetophagites atrebora']
+{'Fossil taxa described in 2007', 'Cretaceous fungi', 'Natural history of Myanmar', 'Burmese amber', 'Fungi of Asia', 'Prehistoric life sorted by taxa', 'Nature', 'Parasitic fungi', 'Hypocreales incertae sedis'}
+Lanoh people
+['lanoh people']
+{'Ethnic groups in Malaysia', 'Hunter-gatherers of Asia', 'People', 'Orang Asli', 'Indigenous peoples of Southeast Asia'}
+Texas State University Department of Philosophy
+['texas state university department philosophy']
+{'Philosophy'}
+History of the Egyptian Constitution
+['history egyptian constitution', 'constitution egypt']
+{'Politics', 'Constitutional history', 'Legal history of Egypt', 'Constitutions of Egypt', 'Political history of Egypt'}
+Tennessee Encyclopedia of History and Culture
+['tennessee encyclopedia history culture']
+{'History of Tennessee', 'Tennessee culture', 'Internet encyclopedias', 'American encyclopedias', 'Specialized encyclopedias', 'Reference', 'Books published by university presses'}
+Young People's Christian Union
+['young people christian union']
+{'Religion'}
+British Isles – A Natural History
+['british isle natural history']
+{'Science'}
+Kerala State Civil Supplies Corporation
+['kerala state civil supply corporation', 'kerala state civil supply corporation limited', 'kerala civil supply corporation', 'supplyco kerala', 'supplyco supermarket', 'civil supply corporation', 'supplyco']
+{'State agencies of Kerala', 'Civil Supplies', 'Supermarkets of India', 'Organisations based in Kochi', '1974 establishments in India', 'Companies based in Kochi', 'Society', 'Government-owned companies of India', 'Companies established in 1974', 'Economy of Kerala', 'Retail companies of India'}
+2010 Royal Trophy
+['royal trophy']
+{'2010 in Thai sport', 'Golf tournaments in Thailand', 'Sports', '2010 in golf', 'Royal Trophy'}
+Closed-circuit television
+['closed-circuit television', 'close circuit television', 'ipscs', 'vqips', 'surveillance camera', 'cctv system', 'video surveillance', 'surveillance video', 'closed-circuit camera', 'close circuit tv', 'video home security system', 'video surveillance closed-circuit television', 'security camera', 'closed-circuit security', 'close circut television', 'cctv', 'video quality public safety', 'security surveillance camera', 'surveillance footage', 'closed-circuit tv']
+{'Security engineering', 'Surveillance', 'Physical security', 'Assistive technology', 'Law enforcement techniques', 'Video', 'Applications of computer vision', 'Public safety', 'Security technology', 'Technology', 'Warning systems', 'Crime prevention', 'Video surveillance'}
+Fleet telematics system
+['fleet telematics system', 'fleet telematics']
+{'Commercial vehicles', 'Wireless locating', 'Telecommunications systems', 'World', 'Global Positioning System'}
+Knight-service
+['knight-service', 'knight service']
+{'Medieval English law', 'Feudal duties', 'Feudalism', 'Land tenure', 'Academic disciplines'}
+Book:Clamp (manga artists)
+['book clamp']
+{'Arts'}
+Business economics
+['business economics', 'business economist', 'corporate economics']
+{'Business economics', 'Business', 'Management'}
+Gumshoe System
+['gumshoe system']
+{'Concepts', 'British role-playing games', 'Role-playing game systems', 'Pelgrane Press games'}
+Cultural resources management
+['cultural resource management', 'cultural resource']
+{'Conservation and restoration', 'Museology', 'Collections care', 'Cultural anthropology', 'Culture', 'Arts'}
+Scholarism
+['scholarism']
+{'Political organisations in Hong Kong', 'Organizations disestablished in 2016', 'Organizations established in 2011', 'Education activism', '2016 disestablishments in Hong Kong', 'Student protests in Hong Kong', '2011 establishments in Hong Kong', 'Education'}
+Fern bar
+['fern bar', 'henry africa', 'herny africa', 'norman hobday']
+{'Types of drinking establishment', 'Entertainment'}
+Camporee
+['camporee', 'camporees']
+{'Events', 'Scouting events'}
+Road barrier effect
+['road barrier effect']
+{'Geography'}
+La Ligne droite
+['la ligne droite']
+{'Health', '2010s drama films', 'Films directed by Régis Wargnier', 'Blind sports', 'Running films', 'Film scores by Patrick Doyle', 'Films about blind people', 'French drama films', 'Gaumont Film Company films', 'French films', '2011 films'}
+350 BC
+['bc', 'bce', '350bc']
+{'History', '350 BC'}
+German studies
+['german study', 'german language literature', 'germanistics', 'german', 'german linguistics', 'germanist', 'german-language study', 'german-speaking study', 'germanistik', 'german philology']
+{'Humanities', 'Germanic philology', 'European studies', 'German culture'}
+Sublanguage
+['sublanguage']
+{'Language', 'Relational model'}
+Judicial activism
+['judicial activism', 'judicial activist', 'judicial tyranny', 'broad judicial review', 'legislate bench', 'activist court', 'judicialization', 'law social change', 'activist judge', 'juristocracy', 'judicial fiat']
+{'Rhetoric', 'Law', 'Sociology of law', 'Philosophy of law', 'Activism by type', 'Constitutional law', 'Conflict of interest', 'Ethically disputed judicial practices', 'Judicial activism'}
+The Future Is Wild
+['future wild', 'rainbow squid', 'fiw']
+{'2002 British television programme debuts', 'Books about evolution', 'British science fiction television programmes', 'Scientific speculation', 'Life', '2000s British television series', 'Speculative evolution', 'Hypothetical life forms', '2002 British television programme endings', 'Animal Planet shows', 'Works about the future'}
+Molecular graph
+['molecular graph', 'mere kenogram', 'kenogram', 'hydrogen-suppressed molecular graph', 'hydrogen-depleted molecular graph', 'plerogram', 'chemical graph']
+{'Theoretical chemistry', 'Mathematical chemistry', 'Cheminformatics', 'Application-specific graphs', 'Mathematics'}
+List of environmental economics journals
+['list environmental economics journal', 'list scholarly journal environmental economics']
+{'Lists of environmental topics', 'Environmental economics', 'Environmental social science journals', 'Economics journals', 'Nature', 'Lists of academic journals'}
+Billionaires for Bush
+['billionaire bush']
+{'Culture jamming', 'People'}
+Modern Greek Enlightenment
+['modern greek enlightenment', 'neohellenic enlightenment', 'greek enlightenment', 'diafotismos']
+{'Modern Greek Enlightenment', 'Philosophy', 'History of philosophy', 'Age of Enlightenment'}
+Social safety net
+['social safety net', 'safety net program', 'socioeconomic safety net', 'welfare safety net', 'social safety', 'fall crack', 'safety-net program']
+{'Politics', 'Social programs'}
+Raised fist
+['raise fist', '', 'red fist', 'white fist', 'black power salute', 'clinch fist', 'clenched-fist', 'black fist', 'lalsalam', 'socialist salute', 'clenched fist', 'power people fist', 'black power fist']
+{'Political symbols', 'Salutes', 'Hand gestures', 'Reference', 'Logos'}
+AIDS
+['aid']
+{'Religion'}
+Algae scrubber
+['alga scrubber', 'turf scrubber', 'turf alga', 'cyano remover', 'aquarium alga', 'nitrate filter', 'nitrate absorber', 'phosphate filter', 'phosphate absorber', 'phosphate scrubber', 'alga live rock', 'alga filter', 'ammonia scrubber', 'algal turf scrubber', 'phosphate reduction', 'turf filter', 'nitrate reduction', 'nuisance alga', 'nitrate scrubber', 'reef filter', 'ammonia filter', 'denitrator', 'alga remover']
+{'Algae', 'Aquaculture', 'Marine biology', 'Biological oceanography', 'Water filters', 'Aquatic ecology', 'Planktology', 'Ecological processes', 'Oceanography', 'Photosynthesis', 'Science', 'Coral reefs', 'Aquaria', 'Fishkeeping'}
+Peace Run
+['peace run', 'world harmony run']
+{'Torch relays', 'Sports events founded by Sri Chinmoy', 'Society', 'Recurring events established in 1987'}
+2019 Rising Phoenix World Championships
+['rise phoenix world championship']
+{'Sports'}
+Polaroid SX-70
+['polaroid', 'polapulse battery', 'blend', 'land camera', '']
+{'Technology', 'SLR cameras', 'Cameras introduced in 1972', 'Polaroid cameras', 'Instant cameras'}
+Exploration
+['exploration', 'geographic exploration', 'voyage exploration', 'spanish explorer', 'explore', 'exploration earth', 'exploration geographic', 'history exploration', 'land exploration', 'explorer', 'expedition']
+{'Exploration', 'World', 'Historical eras'}
+Journal of Romance Studies
+['journal romance study']
+{'Triannual journals', 'Academic disciplines', 'English-language journals', 'Publications established in 2003', 'Romance studies', 'Area studies journals', 'Berghahn Books academic journals'}
+List of Shakespeare authorship candidates
+['list shakespeare authorship candidate', 'list people believe write shakespeare', 'shakespeare authorship candidate', 'list people theorise write shakespeare']
+{'Shakespeare authorship theories', 'People associated with Shakespeare', 'Arts'}
+2016 Republican Party vice presidential candidate selection
+['republican party vice presidential candidate selection']
+{'Business'}
+Principle
+['principle', 'philosophical principle', 'statement principle', 'guiding principle']
+{'Concepts', 'Concepts in metaphysics', 'Principles', 'Concepts in ethics'}
+Royal School of Library and Information Science
+['royal school library information science', 'informationsvidenskabelige akademi', 'det informationsvidenskabelige akademi', 'rslis']
+{'Information science', 'Education in Aalborg', 'Information schools', 'Universities in Denmark', 'Education in Copenhagen', 'Educational institutions established in 1956', 'Library-related organizations', 'University and college departments', 'Culture', 'University of Copenhagen', '1956 establishments in Denmark'}
+Edu-sharing
+['edu-sharing']
+{'Free content management systems', 'Free learning support software', 'Free educational software', 'Virtual learning environments', 'Educational software', 'Cross-platform software', 'Education'}
+Theatre in Omaha, Nebraska
+['theatre omaha nebraska', 'theater omaha', 'theatre omaha']
+{'Theatre by city', 'Culture of Omaha, Nebraska', 'Theatre in Nebraska', 'Entertainment', 'Theatres in Nebraska'}
+ALiX Project
+['alix project']
+{'Events', '2006 establishments in Spain', 'Science and technology in Spain', 'Projects', 'Projects established in 2006'}
+Most Ancient European Towns Network
+['ancient european town network']
+{'Geography', 'History of Europe', 'Organizations established in 1994', 'Cities in Europe', 'Geography of Europe', 'Geography organizations'}
+Occupational burnout
+['occupational burnout', 'burnout syndrome', 'responder apathy syndrome', 'burnout cycle', 'burn-out syndrome', 'maslach burnout inventory']
+{'Health', 'Organizational behavior', 'Human resource management', 'Motivation', 'Organizational theory', 'Occupational safety and health', 'Workplace', 'Stress'}
+CopyCamp
+['copycamp']
+{'International conferences in Poland', 'Free culture movement', 'History', '2012 establishments in Poland', 'Events in Warsaw', 'Copyright law events', 'Recurring events established in 2012'}
+Appalachian studies
+['appalachian study']
+{'Humanities', 'American studies', 'Appalachian studies'}
+Terministic screen
+['terministic screen']
+{'Language'}
+Political finance
+['political finance']
+{'Political law', 'Political funding', 'Law'}
+Biomedical research in the United States
+['biomedical research united state']
+{'Life'}
+Set Theory: An Introduction to Independence Proofs
+['set theory introduction independence proof']
+{'1980 books', 'Mathematics textbooks', 'Mathematics'}
+Project West Ford
+['project west ford', 'west ford project', 'project needle', 'westford needle', 'project westford', 'westford', 'westford-drag']
+{'1963 in science', '1961 in the United States', 'Satellites of the United States', '1963 in the United States', 'Space hazards', 'Military projects of the United States', '1961 in science', 'Nature'}
+Max Pulver
+['max pulver']
+{'1889 births', 'Swiss non-fiction writers', '1952 deaths', 'Swiss male writers', 'People', 'Graphologists'}
+Marshall McLuhan Catholic Secondary School
+['marshall mcluhan catholic secondary school']
+{'Philosophy', 'Educational institutions established in 1998', 'High schools in Toronto', 'Roman Catholic secondary schools in Ontario', 'Toronto Catholic District School Board', 'Marshall McLuhan', '1998 establishments in Ontario'}
+Timeline of 1960s counterculture
+['timeline counterculture']
+{'United States history timelines', 'Timelines of music', 'Politics', 'Counterculture of the 1960s', 'Political timelines', 'British history timelines', 'Culture-related timelines', 'Society-related timelines'}
+Book:Flags
+['book flag']
+{'Reference'}
+Psychology of Religion and Spirituality
+['psychology religion spirituality']
+{'English-language journals', 'American Psychological Association academic journals', 'Publications established in 2009', 'Quarterly journals', 'Psychology of religion journals', 'Religion'}
+Chippie
+['chippie']
+{'German radio programs', 'Science', 'Science radio programmes', '1990 radio programme debuts'}
+Face negotiation theory
+['face negotiation theory']
+{'Communication theory', 'Psychological theories', 'Communication', 'Society', 'Cultural studies'}
+NCAA Native American mascot decision
+['ncaa native american mascot decision']
+{'Native American-related controversies', 'Sports mascots in the United States', 'College football controversies', 'Native American topics', 'Controversies in Canada', 'Sports', 'Sports controversies', 'College mascots in the United States', 'American football controversies', 'Cultural appropriation', 'Baseball controversies', 'Ethnic and racial stereotypes', 'Florida State Seminoles', 'Basketball controversies'}
+Intermodulation intercept point
+['intermodulation intercept point']
+{'Technology', 'Amplifiers'}
+Subarctic
+['subarctic', 'subarctic region', 'subartic', 'sub-arctic']
+{'Asia', 'Geography of Finland', 'Regions of Canada', 'Geography of Iceland', 'Geography of Sweden', 'Arctic geography terminology', 'Geography of Norway', 'Arctic', 'Geography of the United States', 'World', 'Regions of Asia'}
+Water quality
+['water quality', 'water quality control', 'water sampling', 'chemical hydrology', 'drinking water pollution', 'quality water', 'hydrochemist', 'rosette sampler', 'hydrochemistry', 'water quality monitoring', '']
+{'Water pollution', 'Water management', 'Environmental science', 'Water', 'Academic disciplines'}
+Variations of the ichthys symbol
+['variation ichthys symbol', 'darwin fish', 'trek fish', 'dawkins fish', 'fish leg', 'darwin-fish', 'parody ichthys symbol']
+{'Religious symbols', 'Religious parodies and satires', 'Pictograms', 'Arts'}
+Partnership taxation in the United States
+['partnership taxation united state', 'partnership taxation']
+{'Business', 'Business taxes', 'Partnerships', 'Taxation in the United States'}
+Simulated reality
+['simulated reality', 'simulated universe', 'simulism', 'simulated multiverse', 'simulated reality hypothesis', 'simulation argument', 'dream hypothesis', 'virtual reality simulation', 'ancestor simulation', 'life computer simulation', 'matrix hypothesis']
+{'Philosophical arguments', 'Software architecture', 'Concepts', 'Internalism and externalism', 'Reality by type', 'Mixed reality', 'Thought experiments', 'Hyperreality', 'Philosophy of mind', 'Metaphysics', 'Concepts in epistemology', 'Science fiction themes'}
+Along with the Gods: The Two Worlds
+['along god world']
+{'Culture'}
+Flying Fruit Fly Circus School
+['fly fruit fly circus school']
+{'Private schools in Victoria (Australia)', 'High schools in Victoria (Australia)', '1987 establishments in Australia', 'Schools of the performing arts in Australia', 'Circus schools', 'Educational institutions established in 1987', 'Education'}
+Inherently funny word
+['inherently funny word', 'funny word', 'use word comedic effect', 'intrinsically funny word', 'funny number', 'list inherently funny word']
+{'Phonaesthetics', 'Humour', 'Comedy', 'English phrases', 'Entertainment'}
+Cytonn Towers
+['cytonn tower']
+{'Events'}
+Merchant Kings
+['merchant king']
+{'Geography'}
+Obesity paradox
+['obesity paradox', 'cholesterol paradox', 'lipid paradox', 'reverse epidemiology']
+{'Health', 'Epidemiology', 'Obesity', 'Hypotheses'}
+Conjectural history
+['conjectural history', 'stage theory', 'stadial history', 'sketch history man', 'conjectural historian']
+{'Scottish Enlightenment', 'History', 'Stage theories', 'Civil society', 'Historiography', 'Philosophy of history'}
+Chaula (month)
+['chaula']
+{'Humanities', 'Nepali calendar', 'Nepalese culture', 'Months'}
+Yoke language
+['yoke language', 'yoki language', 'pauwi language', 'iso yki']
+{'Language', 'Unclassified languages of New Guinea', 'Lower Mamberamo languages'}
+Rule according to higher law
+['rule accord high law', 'high law theory']
+{'Sovereignty', 'Law', 'Philosophy of law', 'Theories of law'}
+External fertilization
+['external fertilization', 'external fertilisation']
+{'Sexual reproduction', 'Life'}
+Expected value
+['expect value', 'expect monetary value', 'linearity expectation', 'expectation number', 'expectation value', 'value', 'expect payout', 'expectation', '', 'unconditional expectation', 'expectation operator', 'mathematical expectation', 'iterated expectation', 'sklansky buck', 'expect number', 'mathematical expectancy']
+{'Theory of probability distributions', 'Gambling terminology', 'Mathematics'}
+Balance of nature
+['balance nature', 'ecological balance']
+{'Nature', 'Obsolete scientific theories', 'Ecology'}
+Vương Trung Hiếu
+['vương trung hiếu']
+{'People'}
+Intuition
+['intuition', 'intuitive thinking', 'woman intuition', 'intuitive understanding', 'intuitional', 'intuitionphilosophy', 'gut instinct', 'intuitive reason', 'intellectual intuition', 'intuitive', 'philosophical intuition', 'intuitively', 'intuitive knowledge', 'intuitive reasoning']
+{'Cognition', 'Philosophy', 'Concepts in epistemology', 'Spiritual faculties', 'Epistemology of religion'}
+African Governance Architecture
+['african governance architecture']
+{'Politics', 'Governance', 'African Union', 'Intergovernmental organizations established by treaty', 'Pan-African organizations', 'Organisations based in Addis Ababa'}
+Source text
+['source text', 'source material', 'literary source']
+{'Translation', 'Translation studies', 'Reference', 'Sources'}
+Faculty of Theology, Old University of Leuven
+['faculty theology old university leuven']
+{'Defunct universities and colleges in Belgium', 'History of Leuven', 'Theology studies', 'Education in Leuven', 'Schools of religion', 'Religion'}
+Anil Potti
+['anil potti']
+{'Scientific misconduct', 'Living people', 'Hoaxes in science', 'Cancer research', 'Ethics of science and technology', 'Duke University people', 'Academic scandals', 'Hoaxes in the United States', 'Health fraud', '1972 births', 'Science'}
+Hauser Center for Nonprofit Organizations
+['hauser center nonprofit organization']
+{'Civil society', 'Non-profit organizations based in Massachusetts', 'Society', 'Harvard University'}
+2015–17 FIBA–Euroleague Basketball controversy
+['fiba euroleague basketball controversy']
+{'Sports'}
+Tracking collar
+['track collar', 'radio collar']
+{'Technology', 'Radio technology', 'Tracking', 'Animal migration', 'Digital technology'}
+Nyrond
+['nyrond']
+{'Greyhawk locations', 'Living Greyhawk Regions', 'World', 'Fictional countries'}
+Religious Research Association
+['religious research association']
+{'Organizations established in 1951', 'Religious studies', 'Academic disciplines', 'Learned societies'}
+Agnes Edwards (craftworker)
+['agnes edwards']
+{'Indigenous artists', 'Articles created via the Article Wizard', 'Australian people of Indigenous Australian descent', '1873 births', '1928 deaths', 'Aboriginal peoples of New South Wales', 'Arts'}
+BNI (organization)
+['bni', 'giver gain', 'business network international']
+{'Companies established in 1985', 'Professional networks', 'Business organizations in the United States', 'Business', 'Franchises', 'Companies based in San Bernardino County, California'}
+Negative amortization
+['negative amortization', 'negam', 'neg', 'negative amortisation', 'neg-am']
+{'Mortgage', 'Concepts', 'Negative concepts'}
+Artists Authorship Rights Act (New York)
+['artist authorship right act']
+{'Art and culture law', 'United States copyright law', '1984 in law', '1984 in New York', 'Culture', 'New York statutes'}
+Linguaphone (company)
+['linguaphone']
+{'Language schools', 'Education', 'Language education publishing companies'}
+Club Saint-Germain
+['club saint-germain']
+{'Defunct jazz clubs', 'Music venues completed in 1947', 'Jazz clubs in Paris', 'Entertainment'}
+Antoni Oleszczyński
+['antoni oleszczyński']
+{'Events'}
+File:Abdullah Brothers - Holiday Workship at the Sinan Pasha Mosque - Google Art Project.jpg
+['file abdullah brother holiday workship sinan pasha mosque google art project jpg']
+{'Geography'}
+Nutrition analysis
+['nutrition analysis']
+{'Health', 'Nutrition', 'Food law', 'Health policy in the United States'}
+Synod of Rome (721)
+['synod rome']
+{'Medieval Rome', 'History of the papacy', 'History', '8th-century Christian church councils', '721 in Europe'}
+Mainzed
+['mainzed']
+{'Humanities'}
+Ethnolinguistic group
+['ethnolinguistic group']
+{'Language'}
+Garant
+['garant']
+{'Legal software', 'Law', 'Databases in Russia', 'Law databases'}
+Grafting
+['grafting', 'ungrafted', 'graft', 'scion', 'budding', 'inarch graft', 'graftage', 'topworking', 'graft union']
+{'Plant reproduction', 'Agronomy', 'Horticultural techniques', 'Asexual reproduction', 'Life'}
+Quota rule
+['quota rule']
+{'Mathematics'}
+Thermoelectric effect
+['thermoelectric effect', 'seebeck effect', 'thermocell', 'seeback effect', 'thomson coefficient', 'peltier coefficient', 'peltier element', 'peltier junction', 'thermoelectric', 'peltier constant', 'peltier effect', 'thermoelectric plate', 'thomson relation', 'thompson effect', 'water chiller cool rod', 'peltier-seebeck effect', 'peltier seebeck effect', 'second thomson relation', 'peltier device peltier heat pump', 'thomson effect', 'thermoelectricity']
+{'Physical phenomena', 'Nature', 'Thermoelectricity', 'Energy conversion'}
+Kurt Bloch
+['kurt bloch']
+{'Living people', 'The Minus 5 members', '1960 births', 'People', 'American male guitarists', 'American record producers', 'American rock guitarists', 'The Young Fresh Fellows members'}
+Musicology
+['musicology', 'music science', 'musikwissenschaft', 'musical scholar', 'musicologist', 'musicologistic', 'musicological', 'popular musicology', 'historical musicology', 'popular music study']
+{'Philosophy', 'Occupations in music', 'Philosophy of music', 'Music history', 'Humanities occupations', 'Aesthetics', 'Musicology'}
+Societal and cultural aspects of autism
+['societal cultural aspect autism']
+{'Politics'}
+Citation Style Language
+['citation style language']
+{'Bibliography file formats', 'Library 2.0', 'Reference', 'Metadata'}
+Christian contemplation
+['christian contemplation', 'contemplative prayer', 'mystic prayer', 'contemplation', 'contemplative christianity']
+{'Christian mysticism', 'Christian prayer', 'Religion', 'Roman Catholic prayers'}
+Scientific Research Group In Egypt
+['scientific research group egypt']
+{'Information technology', 'Science', 'Computer science research organizations', 'Research and development organizations'}
+Exchange of women
+['exchange woman']
+{'Violence against women', 'Structuralism', 'Society', 'Women in society'}
+Andretti curse
+['andretti curse', 'andretti family']
+{'Sports-related curses', 'Sports', 'Andretti family'}
+Qatar Science & Technology Park
+['qatar science technology park']
+{'Technology'}
+Global surveillance disclosures (2013–present)
+['global surveillance disclosure']
+{'World'}
+David Wyn Jones
+['david wyn jones']
+{'Living people', 'Musicologists', 'Haydn scholars', 'Academic disciplines', '1950 births'}
+Chuck Close
+['chuck close']
+{'Artists from Washington (state)', '20th-century American printmakers', 'University of Massachusetts Amherst faculty', 'Rome Prize winners', 'People from Monroe, Washington', 'Postmodern artists', '1940 births', '20th-century American painters', 'Members of the American Academy of Arts and Letters', 'American male painters', 'People from Bridgehampton, New York', 'Disability in the arts', 'University of Washington alumni', 'Artists with disabilities', 'Photorealist artists', '21st-century American painters', 'People with tetraplegia', 'United States National Medal of Arts recipients', 'American portrait painters', 'American people with disabilities', 'Pointillism', 'Living people', 'National Academy of Design members', 'American photographers', 'People with prosopagnosia', 'Yale School of Art alumni', 'American contemporary painters', 'Arts'}
+Moovit
+['moovit']
+{'Mobile route-planning software', 'Business', 'Crowdsourcing', 'Software companies of Israel'}
+Quantum field theory
+['quantum field theory', 'relativistic quantum field theory', 'quantum theory field', 'history conformal field theory', 'problem infinity', 'quantum field', 'quantum field theroy', 'relativistic quantum theory']
+{'Concepts in physics', 'Mathematical physics', 'Concepts', 'Quantum field theory', 'Quantum mechanics'}
+Salad bowl (cultural idea)
+['salad bowl']
+{'Sociological terminology', 'Political metaphors', 'Metaphors referring to food and drink', 'Cultural politics', 'American culture', 'Canadian culture', 'English phrases', 'Cultural concepts', 'Culture'}
+FBI National Academy
+['fbi national academy']
+{'Training', 'Education', 'Federal Bureau of Investigation'}
+Faro Ladies
+['faro lady']
+{'Gambling and society', 'Entertainment', 'Gambling in the United Kingdom'}
+News
+['news', 'current event', 'american current event', 'united state current event', 'australian current event', 'current issue event', 'newsworthy', 'news report', 'british irish current event', 'currentevents', 'newses', 'odd news', 'news program', 'history news', 'new zealand current event']
+{'News', 'Sociology of knowledge', 'Events', 'Television terminology', 'Radio terminology', 'Communication'}
+International date line in Judaism
+['international date line judaism']
+{'Jewish law', 'Hebrew calendar', 'Time', 'Geography'}
+Childhood trauma
+['childhood trauma']
+{'Health'}
+Historical figure
+['historical figure']
+{'History'}
+Lebanese Christian Nationalism: The Rise and Fall of an Ethnic Resistance
+['lebanese christian nationalism rise fall ethnic resistance', 'lebanese christian nationalism']
+{'Humanities', 'Lebanese nationalism', 'Books about nationalism', '1996 books', 'Christianity in Lebanon', 'Phoenicianism'}
+Blissymbols
+['blissymbols', 'bliss symbolic', 'bliss symbol', 'iso zbl', 'blissym', 'blisssymbols', 'blissymbol', 'blissymbolics', 'blisssymbol', 'semantography', 'blissymbolics language', 'bliss language', 'blisssymbolics', 'iso blis', 'blissymbols language']
+{'Scripts not encoded in Unicode', 'Language', 'International auxiliary languages', 'Auxiliary and educational artificial scripts', 'Pictograms', 'Engineered languages', '1949 introductions', 'Augmentative and alternative communication'}
+Continuing legal education
+['continuing legal education', 'mcle']
+{'Legal education', 'Continuing education', 'Law', 'United States law'}
+Nimbia occlusa
+['nimbia occlusa']
+{'Life', 'Ediacaran biota', 'Fossils of Norway', 'Cryogenian biota', 'Incertae sedis', 'Cambrian life'}
+Timeline of class field theory
+['timeline class field theory', 'history class field theory']
+{'Class field theory', 'Mathematics timelines', 'Mathematics'}
+Kakabekia
+['kakabekia']
+{'Fossil algae', 'Nature', 'Prehistoric life'}
+Book:United States Marine Corps recipients of the Medal of Honor
+['book united state marine corps recipient medal honor']
+{'People'}
+Mary Hesse
+['mary hesse', 'hesse']
+{'English women philosophers', 'Philosophy academics', 'Philosophy', 'Alumni of University College London', '2016 deaths', 'Philosophy teachers', '1924 births', 'English philosophers', '20th-century philosophers', 'Fellows of Wolfson College, Cambridge', 'Philosophers of science'}
+Timeline of the Gwangmu Reform
+['timeline gwangmu reform', 'timeline korean empire']
+{'Politics', 'Political timelines', 'Korean Empire', 'Reform'}
+Picometre
+['picometre', 'picometer', 'pico meter', 'picometers', 'picometres']
+{'Units of length', 'Reference', 'Orders of magnitude (length)'}
+Censer
+['censer', 'incense burner', 'ash-pan', 'koro', 'perfume-burner', 'perfume burner']
+{'Religious objects', 'Cannabis and religion', 'Christian religious objects', 'Religion', 'Incense equipment'}
+Journal of Bioscience and Bioengineering
+['journal bioscience bioengineer']
+{'Science'}
+Mathematics of Operations Research
+['mathematics operation research']
+{'Mathematical optimization', 'INFORMS academic journals', 'Publications established in 1976', 'Systems journals', 'Operations research', 'Mathematics journals', 'Society', 'Game theory'}
+2009 Premier League Darts
+['premier league dart']
+{'Sports', '2009 in British sport', 'Premier League Darts', '2009 in darts'}
+List of vacuum cleaners
+['list vacuum cleaner']
+{'Technology', 'Technology-related lists', 'Lists of manufacturers', 'Vacuum cleaners'}
+Global apartheid
+['global apartheid']
+{'World government', 'Global politics', 'International relations', 'World', 'Global issues'}
+Sexual Attitude Reassessment
+['sexual attitude reassessment']
+{'Academic disciplines', 'Sexual abuse', 'Sexuality and gender-related prejudices', 'Sexual attraction', 'Sexology', 'Sexual roles'}
+Pastiche
+['pastiche', 'pastische', 'pastich', 'pastiche mass', 'genre parody']
+{'Arts'}
+Customer dynamics
+['customer dynamics']
+{'Marketing', 'Customer experience management', 'Business', 'Business analysis'}
+Symbol
+['symbol', 'symbologically', 'symbologies', 'international symbol', 'symbologists', 'symbological', 'processual symbolic analysis', 'random symbol', 'symbologic', 'cultural ikon', 'symbolic action', 'symbologist', 'symbology']
+{'Notation', 'Symbols', 'Concepts', 'Syntactic entities'}
+Criminal tradition
+['criminal tradition']
+{'Culture'}
+ACME Newspictures
+['acme newspictures']
+{'Education', 'Photo archives', 'News agencies based in the United States'}
+Screenwriting
+['screenwrit', 'screen write', 'television writer', 'screenplay write', 'screenwrit theory', 'filmic write', 'scriptwrit', 'storybook', 'tv writer', 'midpoint']
+{'Hollywood', 'Video game design', 'Drama', 'Filmmaking', 'Plot (narrative)', 'Video game development', 'Film', 'Television terminology', 'Entertainment', 'Writing', 'Film production', 'Screenwriting', 'How-to', 'Film and video terminology', 'Performing arts'}
+Glenn Dennis
+['glenn dennis']
+{'2015 deaths', '1925 births', 'Events', 'Ufologists', 'UFO-related phenomena', 'Roswell UFO incident'}
+Tobler's first law of geography
+['tobler first law geography']
+{'Geography'}
+Health data
+['health data']
+{'Health'}
+Memorial of the Victims of Communism and of the Resistance
+['memorial victim communism resistance', 'international centre study communism', 'memorial victim communism', 'international center study communism', 'sighet memorial museum', 'sighet museum']
+{'Visitor attractions in Maramureș County', 'Socialist Republic of Romania', '1993 establishments in Romania', 'Prison museums', 'Memorials to victims of communism', 'Research institutes in Romania', 'Education in Romania', 'Organizations established in 1993', 'History', 'Sighetu Marmației', 'Buildings and structures in Maramureș County', 'History museums in Romania', 'Educational institutions established in 1993'}
+Chonga
+['chonga']
+{'Humanities', 'Mexican-American culture in Florida', 'Working class culture in the United States', 'Culture of Miami', 'Cuban-American culture in Florida', 'Hispanic and Latino American women', 'Stereotypes of working class women', 'Hispanic and Latino American culture in Florida', 'Gender studies', 'Hispanic and Latino-American working class'}
+Glossary of blogging
+['glossary blogging', 'soldier blog', 'linkroll', 'blog hop', 'blogrolls', 'blog roll', 'list blogging term', 'blath', 'food blog', 'blog carnival', 'catblogging', 'milblogs', 'blawg', 'blogrolling', 'multiblog', 'blogrool']
+{'Blogs', 'Internet terminology', 'Glossaries of computers', 'Language', 'Neologisms'}
+European Judicial Network
+['european judicial network']
+{'Law'}
+List of disasters in Estonia by death toll
+['list disaster estonia death toll']
+{'Life'}
+File:Escher Dragon.jpg
+['file escher dragon jpg']
+{'Mathematics'}
+Nature
+['nature', 'naturely', 'natural universe', 'beauty nature', 'natural', 'material universe', 'natural world']
+{'Nature', 'Environmental social science concepts', 'Environmental science'}
+Victor Zonana
+['victor zonana']
+{'Living people', 'People associated with HIV/AIDS', 'LGBT journalists from the United States', 'People', 'People from New York City', 'American journalists', 'Dartmouth College alumni'}
+Indonesian philosophy
+['indonesian philosophy', 'philosophy indonesia']
+{'Indonesian literature', 'Philosophy', 'Indonesian culture', 'Indonesian philosophy'}
+Hostis humani generis
+['hostis humani generis', 'hostes humani generis', 'enemy mankind']
+{'Law of the sea', 'Politics', 'Latin legal terminology', 'Piracy law', 'Universal jurisdiction', 'Anti-piracy', 'International criminal law'}
+Gongman
+['gongman']
+{'Cinema of the United Kingdom', 'Corporate mascots', 'Reference', 'British mascots'}
+Buddhism and euthanasia
+['buddhism euthanasia']
+{'Buddhism and society', 'Religion and death', 'Euthanasia', 'Religion'}
+P-Course
+['p-course']
+{'Science', 'Maintenance'}
+Mandatory retirement
+['mandatory retirement', 'compulsory retirement', 'enforce retirement', 'mandatory retirement age']
+{'Retirement', 'Age and society', 'Society'}
+Player escort
+['player escort', 'match mascot']
+{'Volunteering', 'Association football terminology', 'Association football supporters', 'Sports', "Children's sport", 'Terminology used in multiple sports', 'Sports fandom'}
+List of technologies
+['list technology']
+{'Technology', 'Technology-related lists'}
+Study of global communication
+['study global communication']
+{'Communication', 'World'}
+KIF1A
+['kif1a']
+{'Sexual orientation and science', 'Academic disciplines'}
+The Lady who Loved Insects
+['lady love insect', 'princess love insect', 'lady admire vermin', 'mushi mezuru himegimi']
+{'Japanese short stories', 'Cosmetics', 'Monogatari', 'Entomological literature', 'Hair removal', 'Japanese aesthetics', 'Arts'}
+Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern
+['informationsgemeinschaft zur feststellung der verbreitung von werbeträgern']
+{'Business'}
+Negative hyperconjugation
+['negative hyperconjugation', 'negative hyper-conjugation', 'anionic hyperconjugation']
+{'Concepts', 'Negative concepts', 'Physical organic chemistry'}
+The Art Genome Project
+['art genome project']
+{'Arts databases', 'Culture'}
+Teaching method
+['teaching method', 'teaching technique', 'training method']
+{'Education', 'Teaching', 'Infographics'}
+Entertainment in the 16th century
+['entertainment 16th century']
+{'16th century', 'Entertainment'}
+Dark Ages Radio Explorer
+['dark age radio explorer']
+{'Events', 'Big Bang', 'Cosmic background radiation', 'NASA space probes', 'Physical cosmology'}
+Centre for Computational Geography
+['centre computational geography']
+{'Computational science', 'University of Leeds', 'Geography', 'Geography organizations'}
+AEIOU-TIPS
+['aeiou-tips']
+{'Health', 'Medical mnemonics'}
+Cultural influence of Gilbert and Sullivan
+['cultural influence gilbert sullivan', 'cultural impact gilbert sullivan', 'gilbert sullivan popular culture', 'cultural influence pinafore']
+{'Creative works in popular culture', 'History', 'Music in popular culture', 'Gilbert and Sullivan'}
+Linguistic areas of the Americas
+['linguistic area americas']
+{'Humanities', 'Sprachbund', 'Language classification', 'Indigenous languages of the Americas'}
+Pan-Slavism
+['pan-slavism', 'panslavist', 'pan-slavist', 'pan-slavicism', 'slavisphere', 'pan slav', 'pan slavism', 'pan-slavists', 'pan slavic', 'panslavism', 'pan-slavs', 'pan-slav', 'pan-slavic', 'pan-slavistic']
+{'Russian nationalism', 'Language', 'Foreign relations of the Russian Empire', 'Pan-nationalism', 'Political theories', 'Political ideologies', 'Pan-Slavism', 'Slavicization', 'Foreign relations of the Soviet Union', 'Russification', 'Russophile Movement in Western Ukraine'}
+Pincus v. Yahoo! Inc.
+['pincus yahoo inc']
+{'Yahoo! litigation', 'Law', 'Ongoing legal cases', 'Class action lawsuits'}
+Duality (CoPs)
+['duality', 'duality community practice']
+{'Educational psychology', 'Knowledge', 'Knowledge management', 'Management', 'Life'}
+Peano kernel theorem
+['peano kernel theorem']
+{'Mathematics'}
+Living systems
+['live system', 'live system theory', 'living system']
+{'Systems theory', 'Systems biology', 'Nature', 'Biological systems', 'Life'}
+Sasuke Uchiha
+['sasuke uchiha', 'mikoto uchiha', 'uchiha', 'uchiha clan', 'uchiha sasuke', 'curse seal sasuke', 'うちはサスケ', 'sasukae uciha', 'sasuke uchiwa', 'utiha sasuke', 'fugaku uchiha', 'sasuke uciha', 'sasuke utiha']
+{'Fictional characters with electric or magnetic abilities', 'Naruto characters', 'Orphan characters in anime and manga', 'Fictional ninja', 'Fictional characters with fire or heat abilities', 'People', 'Comics characters introduced in 1999', 'Fictional illusionists', 'Fictional criminals', 'Fictional amputees', 'Child characters in anime and manga', 'Fictional murderers', 'Male characters in anime and manga', 'Fictional sole survivors'}
+Gödel's ontological proof
+['gödel ontological proof']
+{'Philosophy'}
+Political insult
+['political insult']
+{'Politics'}
+Chapters and verses of the Bible
+['chapter verse bible', 'bible verse', 'versification', 'bible chapter', 'verse']
+{'Referencing systems', 'Bible chapters', 'Reference', 'Bible verses'}
+Template:Spiritualism and spiritism
+['template spiritualism spiritism']
+{'Religion'}
+Portal:Science
+['portal science']
+{'Science'}
+Parallel society
+['parallel society', 'parallelgesellschaft']
+{'Multiculturalism', 'German words and phrases', 'Identity politics', 'Society'}
+Pillion
+['pillion', 'biker bitch', 'ride bitch', 'pillion passenger', 'ride pillion', 'bitch pad', 'bitch seat']
+{'Equestrianism', 'Sports', 'Motorcycle technology'}
+Yokneam Illit
+['yokneam illit']
+{'Technology'}
+Natural environment
+['natural environment', 'environment', 'environmental asset', 'environmental system', 'geographic environment', 'natural physical environment', 'natural force']
+{'Natural environment', 'Nature', 'Habitat', 'World'}
+List of schools of Library and Information Science in India
+['list school library information science india']
+{'Lists of schools in India', 'Academic disciplines'}
+Al-Qatt Al-Asiri
+['al-qatt al-asiri']
+{'Arts'}
+Enterprise Value Tax
+['enterprise value tax']
+{'Business', 'Business taxes', 'Capital gains taxes', 'Taxation in the United States'}
+Concept
+['concept', 'conceptualisation', 'conceptualise', 'conceptualize', 'sociological concept', 'conceive', 'abstract concept', 'conception', 'conceptually']
+{'Philosophy of language', 'Semantics', 'Concepts', 'Abstraction', 'Cognitive science', 'Mental content', 'Ontology'}
+Playing card
+['play card', 'poker card', '', 'game card', 'heart', 'diamond', 'mamluk play card', 'spade', 'chinese origin play card', 'play card anglo-american', 'playingcard', 'card-playing', 'club', 'jumbo play card', 'black club', 'red club', 'card card game', 'deck', 'short deck', 'playing-card', 'deck card', 'pack', 'poker deck', 'pack card', 'red spade', 'deck play card', 'german deck card']
+{'Tarot', 'History of card decks', 'Playing cards', 'Paper products', 'Chinese inventions', 'Game equipment', 'Culture'}
+Explosives safety
+['explosive safety', 'susan test']
+{'Explosion protection', 'Education', 'Explosives'}
+Be an Interplanetary Spy
+['interplanetary spy']
+{'Science fiction book series', 'Gamebooks', "Children's science fiction novels", 'Entertainment'}
+List of ethnic riots
+['list ethnic riot', 'world timeline race riot', 'list race riot', 'list race riot united state', 'racial disturbance', 'racial riot', 'racial rioting']
+{'Events', 'Ethnic riots', 'Lists of events'}
+File:TrangBang.jpg
+['file trangbang jpg']
+{'Geography'}
+Template:Deprivation Indicators
+['template deprivation indicator']
+{'Health'}
+Empire of Japan
+['empire japan', 'japanese expansion', 'japanese imperial era', '大日本帝国', 'great japanese empire', 'japanese imperial', 'imperial japanese', 'dai nippon', 'japan second world war', 'dai-nippon', 'japan expansionism', 'japanese colonial government', 'imperial japan', 'great japan', 'japan empire', 'empire great japan', '大日本帝國', 'japanese empire', 'colonial japan', 'dai nippon teikoku', 'japan wwii', 'imprial japan']
+{'1947 disestablishments in Japan', '1868 establishments in Asia', 'Former countries in Japanese history', '20th century in Japan', 'States and territories disestablished in 1945', 'Fascist states', '1947 disestablishments in Asia', 'History of Japan', 'History', 'Former empires of Asia', '19th century in Japan', 'States and territories established in 1868', 'Empire of Japan', 'Former monarchies of Asia', 'Japanese nationalism', '1868 establishments in Japan'}
+The Long Search
+['long search']
+{'Humanities', 'Religion in the United Kingdom', 'Religion in popular culture', 'Religious studies', '1977 British television programme debuts', '1977 British television programme endings', 'British documentary television series', 'BBC television documentaries'}
+Upskirt
+['upskirt', 'upskirt pornography', 'upskirts', 'uppie', 'upskirt photo', 'upskirting', 'upskrit', 'skirt photography', 'skirt', 'upskirt photography']
+{'Language', 'Pornography terminology', 'Sexual fetishism'}
+Barefoot v. Estelle
+['barefoot estelle', '']
+{'United States Supreme Court cases', 'Law', 'United States expert witness case law', '1983 in United States case law', 'Mental health law in the United States', 'United States Supreme Court cases of the Burger Court'}
+Michelangelo (Teenage Mutant Ninja Turtles)
+['michelangelo', 'turtle titan', 'michaelangelo', 'mike', 'cowabunga carl']
+{'Life', 'Fictional ninja', 'Child superheroes', 'Fictional mutants', 'Fictional surfers', 'Fictional characters from New York City', 'Fictional victims of kidnapping', 'Fictional writers', 'Fictional vigilantes', 'Teenage Mutant Ninja Turtles characters', 'Teenage Mutant Ninja Turtles (1987 TV series) characters', 'Fictional turtles', 'Animal superheroes', 'Superheroes who are adopted', 'Superhero film characters', 'Fictional chefs', 'Teenage Mutant Ninja Turtles (2003 TV series) characters', 'Comics characters introduced in 1984', 'Fictional poets', 'Anthropomorphic martial artists', 'Fictional adoptees', 'Fictional comedians'}
+ISO 31-11
+['iso']
+{'Mathematical notation', 'Mathematical symbols', 'ISO 31', 'Mathematics'}
+Selvaggio Blu (Sardinia)
+['selvaggio blu']
+{'Nature'}
+Stoffel du Plessis
+['stoffel du plessis']
+{'People'}
+Regress argument
+['regress argument', 'skeptical regress', 'diallelus', 'theregressargumentinepistemology', 'common sense diallelus', 'regress problem', 'diallelos', 'regress argument epistemology', 'commonsenseandthediallelus']
+{'Philosophical problems', 'Philosophy', 'Concepts in epistemology', 'Justification', 'Philosophical arguments'}
+Rooney Prize for Irish Literature
+['rooney prize irish literature', 'rooney prize', 'rooney prize literature']
+{'Irish literary awards', 'Politics', 'Political book awards', '1976 establishments in Ireland', 'Awards established in 1976', 'Literary awards honouring young writers'}
+Self-perpetuation
+['self-perpetuation', 'self-perpetuating']
+{'Self-reference', 'Reference', 'Systems science'}
+Allegory of the long spoons
+['allegory long spoon', 'fable long spoon', 'parable long spoon']
+{'Interfaith', 'Allegory', 'Religion', 'Jewish folklore', 'Religious pluralism'}
+Science
+['science', 'nature science', 'definition science', 'scientific', 'empirical science', 'science fact', 'scientifically', 'classification science', 'scientific knowledge', 'basic theory science', 'scientificity', 'general science']
+{'Science'}
+Ed Kalegi
+['ed kalegi']
+{'Living people', 'People from Edison, New Jersey', 'Society', 'Public address announcers', '1967 births', 'Rutgers University alumni', 'American male voice actors'}
+World Fit
+['world fit']
+{'Olympic movement', 'Sports', 'Organizations based in Colorado Springs, Colorado', 'Physical exercise', 'United States Olympic Committee', 'Obesity', 'Alternative education'}
+I-City
+['i-city']
+{'Technology', 'Populated places in Selangor', 'MSC Malaysia', 'High-technology business districts'}
+Stewardship (theology)
+['stewardship']
+{'Christian democracy', 'Christian ethics', 'Environment and religion', 'World'}
+Ilan Kapoor
+['ilan kapoor']
+{'Living people', 'Academic disciplines', 'Canadian Jews', 'York University faculty', 'Canadian academics', 'Canadian people of Indian descent', '1959 births', 'Environmental studies scholars'}
+Anthropotechnic
+['anthropotechnic']
+{'Literature', 'Literary terminology', 'Arts'}
+Erol Sabancı
+['erol sabancı']
+{'Business'}
+Distinction (philosophy)
+['distinction']
+{'Conceptual distinctions', 'Concepts', 'Abstraction', 'Thought', 'Difference', 'Philosophical concepts'}
+Bijoy Kumar Hrangkhawl
+['bijoy kumar hrangkhawl', 'bijoy hrangkwal']
+{'Living people', 'Tripuri nationalism', 'Tripura politicians', 'Culture', 'Tripuri people'}
+Academic ranks in Italy
+['academic rank italy']
+{'Education', 'Academia in Italy', 'Academic ranks'}
+Animal cafe
+['animal cafe']
+{'Entertainment'}
+Crisis camp
+['crisis camp', 'crisis camp haiti']
+{'Events', 'Unconferences', 'Technology in society', 'Emergency organisations', 'Natural disasters'}
+Space in landscape design
+['space landscape design']
+{'Geography', 'Horticulture and gardening', 'Psychogeography', 'Landscape', 'Landscape architecture', 'Garden features', 'Architectural theory', 'Environmental design'}
+COSECSA
+['cosecsa', 'college surgeon east central southern africa']
+{'Health', 'Health in Africa', 'Health in Ethiopia'}
+Living with the Gods
+['live god']
+{'History'}
+Library science
+['library science', 'bibliothecography', 'history library information science', 'information library science', 'library study', 'library scientist', 'librarianship', 'library information science']
+{'Humanities', 'Library science'}
+Proto-Nahuan language
+['proto-nahuan language', 'proto-nahuan']
+{'Agglutinative languages', 'Language', 'Proto-languages', 'Nahuan languages'}
+Leave of absence
+['leave absence', 'unpaid leave', 'leavingly', 'pay leave', 'leave entitlement']
+{'Employment compensation', 'Family law', 'Law', 'Labour relations', 'Business law', 'Labour law', 'Leave'}
+Carl Robin Geary
+['carl robin geary']
+{'2010 deaths', 'Mayors of places in Tennessee', 'Year of birth missing', 'Politicians elected posthumously', 'Life'}
+Alex Wilkie
+['alex wilkie', 'alec jame wilkie', 'wilkie', 'alex jame wilkie']
+{'21st-century English mathematicians', 'Living people', '20th-century English mathematicians', 'Academics of the University of Manchester', '1948 births', 'Mathematics', 'Alumni of University College London', 'Fellows of the Royal Society', 'Tarski lecturers', 'Model theorists', 'Fellows of the American Mathematical Society', 'People from Northampton', 'Alumni of Bedford College (London)', 'Academics of the University of Oxford', 'Fellows of Wolfson College, Oxford', 'Yale University faculty', 'People educated at Aylesbury Grammar School'}
+Spaceflight osteopenia
+['spaceflight osteopenia']
+{'Nature', 'Space hazards', 'Space medicine', 'Human spaceflight'}
+Shani Diluka
+['shani diluka']
+{'1976 births', 'Living people', 'Classical pianists', 'People'}
+Society for Women in Philosophy
+['society woman philosophy']
+{'Organizations established in 1972', 'Philosophy', 'Philosophical societies', 'Women and philosophy'}
+Anarchist Black Cross
+['anarchist black cross', 'anarchist red cross']
+{'Anarchist organizations', 'International anarchist organizations', 'Black symbols', 'Politics', 'Legal advocacy organizations', 'Prison abolition movement', 'Cross symbols', 'Prison-related organizations'}
+Key Word in Context
+['key word context', 'keyword context', 'kwic index', 'permute index']
+{'Concordances (publishing)', 'Index (publishing)', 'Reference'}
+Iglesia Maradoniana
+['iglesia maradoniana', 'church maradona', 'maradonian church']
+{"Association football supporters' associations", 'Religious parodies and satires', 'Religion in Argentina', 'Religion', 'Football in Argentina'}
+Web-based taxonomy
+['web-based taxonomy', 'web taxonomy']
+{'Biological classification', 'Science', 'World Wide Web', 'Taxonomy (biology)'}
+Richard Hore
+['richard hore']
+{'Society'}
+Isoinertial
+['isoinertial']
+{'Sports', 'Physical exercise', 'Human spaceflight'}
+Campaign Against Sex Robots
+['campaign sex robot']
+{'Technology', 'Regulation of technologies', 'Advocacy groups', '2015 establishments in Europe'}
+International communication
+['international communication', 'global communication', 'transnational communication']
+{'World', 'Communication by type'}
+Economics of scientific knowledge
+['economics scientific knowledge']
+{'Science and technology studies', 'Academic disciplines', 'Relation of economics to other disciplines', 'Economic methodology', 'Science studies', 'Historiography of science'}
+Plastic number
+['plastic number', 'plastic constant', 'plastic sequence']
+{'Mathematical constants', 'Irrational numbers', 'Arts'}
+Equivalence number method
+['equivalence number method']
+{'Business'}
+Explanatory model
+['explanatory model']
+{'Concepts', 'Conceptual models', 'Hermeneutics'}
+Organic clothing
+['organic clothing']
+{'Sustainable technologies', 'Clothing by material', 'Culture'}
+Draft:Ace Institute of Management
+['draft ace institute management']
+{'Education'}
+Indonesia Comic Con
+['indonesia comic con']
+{'Entertainment'}
+SecureDrop
+['securedrop', 'strongbox', 'deaddrop', 'safesource']
+{'Free content management systems', 'Whistleblowing', '2013 software', 'Events', 'Source (journalism)', 'Free software'}
+Henry Russell (explorer)
+['henry russell']
+{'Geography', 'French people of Irish descent', '1834 births', 'Members of the Société Ramond', 'French mountain climbers', 'People from Toulouse', '1909 deaths', 'French explorers', 'Pyrénéistes'}
+Abortion in Belize
+['abortion belize']
+{'Health', 'Health in Belize', 'Abortion in Central America', 'Abortion by country'}
+Venice Charter
+['venice charter']
+{'Urban planning', 'Historic preservation', 'Conservation and restoration', 'Architectural history', 'Treaties concluded in 1964', 'Cultural heritage', 'History', 'International cultural heritage documents'}
+Center for Middle Eastern Studies at Lund University
+['center middle eastern study lund university']
+{'Humanities', 'Lund University', 'Middle Eastern studies', '2007 establishments in Sweden', 'North Africa'}
+Olyfran
+['olyfran']
+{'Language competitions', 'Education in Belgium', 'Language', 'French-language education'}
+Portal:Jurisprudence
+['portal jurisprudence']
+{'Law'}
