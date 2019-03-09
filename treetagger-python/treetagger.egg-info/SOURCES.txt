@@ -1,0 +1,8 @@
+README.rst
+setup.py
+treetagger.py
+treetagger.egg-info/PKG-INFO
+treetagger.egg-info/SOURCES.txt
+treetagger.egg-info/dependency_links.txt
+treetagger.egg-info/requires.txt
+treetagger.egg-info/top_level.txt
